@@ -1,13 +1,14 @@
 # CSCI-112-Final-Project
+This repository contains the final project for CSCI112, which includes data analysis and aggregation pipelines using MongoDB.
 
-MongoDB Atlas cluster as virtual database
+## MongoDB Atlas cluster as virtual database
 
 Connect to a Cluster0 Sample Instructions 
 
 https://www.youtube.com/watch?v=VkXvVOb99g0
 
 
-**MongoDB Compass **
+### MongoDB Compass 
 
   (1) To connect to MongoDB: 
   
@@ -25,7 +26,7 @@ https://www.youtube.com/watch?v=VkXvVOb99g0
 
 
 
-**Visual Studio Code MongoDB Playground **
+### Visual Studio Code MongoDB Playground 
 
 (1) Install MongoDB Extension
 
