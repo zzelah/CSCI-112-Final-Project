@@ -6,7 +6,8 @@ Connect to a Cluster0 Sample Instructions
 
 https://www.youtube.com/watch?v=VkXvVOb99g0
 
-MongoDB Compass 
+
+**MongoDB Compass **
 
   (1) To connect to MongoDB: 
   
@@ -23,7 +24,8 @@ MongoDB Compass
   (4) Export the JSON File for the insight 
 
 
-Visual Studio Code MongoDB Playground 
+
+**Visual Studio Code MongoDB Playground **
 
 (1) Install MongoDB Extension
 
