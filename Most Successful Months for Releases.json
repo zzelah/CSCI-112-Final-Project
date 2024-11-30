@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "month": 7,
+    "type": "Movie"
+  },
+  "count": 565
+},
+{
+  "_id": {
+    "month": 4,
+    "type": "Movie"
+  },
+  "count": 550
+},
+{
+  "_id": {
+    "month": 12,
+    "type": "Movie"
+  },
+  "count": 547
+},
+{
+  "_id": {
+    "month": 1,
+    "type": "Movie"
+  },
+  "count": 546
+},
+{
+  "_id": {
+    "month": 10,
+    "type": "Movie"
+  },
+  "count": 545
+},
+{
+  "_id": {
+    "month": 3,
+    "type": "Movie"
+  },
+  "count": 529
+},
+{
+  "_id": {
+    "month": 9,
+    "type": "Movie"
+  },
+  "count": 519
+},
+{
+  "_id": {
+    "month": 8,
+    "type": "Movie"
+  },
+  "count": 519
+},
+{
+  "_id": {
+    "month": 11,
+    "type": "Movie"
+  },
+  "count": 498
+},
+{
+  "_id": {
+    "month": 6,
+    "type": "Movie"
+  },
+  "count": 492
+},
+{
+  "_id": {
+    "month": 5,
+    "type": "Movie"
+  },
+  "count": 439
+},
+{
+  "_id": {
+    "month": 2,
+    "type": "Movie"
+  },
+  "count": 382
+},
+{
+  "_id": {
+    "month": 12,
+    "type": "TV Show"
+  },
+  "count": 266
+},
+{
+  "_id": {
+    "month": 7,
+    "type": "TV Show"
+  },
+  "count": 262
+},
+{
+  "_id": {
+    "month": 9,
+    "type": "TV Show"
+  },
+  "count": 251
+},
+{
+  "_id": {
+    "month": 8,
+    "type": "TV Show"
+  },
+  "count": 236
+},
+{
+  "_id": {
+    "month": 6,
+    "type": "TV Show"
+  },
+  "count": 236
+},
+{
+  "_id": {
+    "month": 10,
+    "type": "TV Show"
+  },
+  "count": 215
+},
+{
+  "_id": {
+    "month": 4,
+    "type": "TV Show"
+  },
+  "count": 214
+},
+{
+  "_id": {
+    "month": 3,
+    "type": "TV Show"
+  },
+  "count": 213
+},
+{
+  "_id": {
+    "month": 11,
+    "type": "TV Show"
+  },
+  "count": 207
+},
+{
+  "_id": {
+    "month": 5,
+    "type": "TV Show"
+  },
+  "count": 193
+},
+{
+  "_id": {
+    "month": 1,
+    "type": "TV Show"
+  },
+  "count": 192
+},
+{
+  "_id": {
+    "month": 2,
+    "type": "TV Show"
+  },
+  "count": 181
+},
+{
+  "_id": {
+    "month": null,
+    "type": "TV Show"
+  },
+  "count": 10
+}]

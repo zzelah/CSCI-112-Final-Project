@@ -1,0 +1,8674 @@
+[{
+  "_id": "China, United States, Canada",
+  "country": "China, United States, Canada",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, India",
+  "country": "Australia, India",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, New Zealand, United States",
+  "country": "Australia, New Zealand, United States",
+  "top_genres": [
+    {
+      "genre": "TV Dramas, TV Sci-Fi & Fantasy, TV Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia",
+  "country": "Australia",
+  "top_genres": [
+    {
+      "genre": "Docuseries, International TV Shows, Science & Nature TV",
+      "count": 5
+    },
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 5
+    },
+    {
+      "genre": "International TV Shows, Reality TV",
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": "Italy, Canada, France",
+  "country": "Italy, Canada, France",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Hungary, Ireland, Canada",
+  "country": "United States, Hungary, Ireland, Canada",
+  "top_genres": [
+    {
+      "genre": "TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Mexico, France",
+  "country": "Spain, Mexico, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, Brazil, France, Poland, Germany, Denmark",
+  "country": "Argentina, Brazil, France, Poland, Germany, Denmark",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Korea, Japan",
+  "country": "South Korea, Japan",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Lebanon",
+  "country": "France, Lebanon",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",
+  "country": "Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Portugal, Spain",
+  "country": "Portugal, Spain",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Sports Movies",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, International Movies, LGBTQ Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Saudi Arabia, United Arab Emirates",
+  "country": "Saudi Arabia, United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Peru",
+  "country": "Peru",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United States",
+  "country": "Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 3
+    },
+    {
+      "genre": "Horror Movies, Thrillers",
+      "count": 3
+    },
+    {
+      "genre": "Documentaries",
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": "India, Turkey",
+  "country": "India, Turkey",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, France, United States",
+  "country": "Spain, France, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "New Zealand",
+  "country": "New Zealand",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 3
+    },
+    {
+      "genre": "Documentaries, Sports Movies",
+      "count": 2
+    },
+    {
+      "genre": "Comedies, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Turkey, South Korea",
+  "country": "Turkey, South Korea",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Netherlands, Singapore",
+  "country": "France, Netherlands, Singapore",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Australia",
+  "country": "United Kingdom, Australia",
+  "top_genres": [
+    {
+      "genre": "TV Action & Adventure, TV Dramas, TV Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Singapore",
+  "country": "United Kingdom, Singapore",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Czech Republic, France",
+  "country": "Czech Republic, France",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, China, United Kingdom",
+  "country": "Germany, China, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, Canada, United States",
+  "country": "China, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Comedies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Switzerland, France, Belgium, United States",
+  "country": "Switzerland, France, Belgium, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Colombia, Mexico, United States",
+  "country": "Colombia, Mexico, United States",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Spanish-Language TV Shows, TV Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Ireland",
+  "country": "United States, Ireland",
+  "top_genres": [
+    {
+      "genre": "Comedies, Horror Movies",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Italy, Romania, United Kingdom",
+  "country": "United States, Italy, Romania, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Dramas, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Belgium, United Kingdom, United States",
+  "country": "Belgium, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Japan",
+  "country": "France, Japan",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Denmark, Sweden",
+  "country": "United States, United Kingdom, Denmark, Sweden",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Uruguay, Argentina, Spain",
+  "country": "Uruguay, Argentina, Spain",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Poland,",
+  "country": "Poland,",
+  "top_genres": [
+    {
+      "genre": "Classic Movies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Ireland, United States",
+  "country": "Canada, Ireland, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, United States",
+  "country": "Australia, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV, TV Sci-Fi & Fantasy",
+      "count": 1
+    },
+    {
+      "genre": "Horror Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Switzerland, United Kingdom, Australia",
+  "country": "Switzerland, United Kingdom, Australia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Japan, United States",
+  "country": "United Kingdom, Japan, United States",
+  "top_genres": [
+    {
+      "genre": "Classic Movies, Independent Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Classic Movies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, Belgium",
+  "country": "Germany, Belgium",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Hungary",
+  "country": "Hungary",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Brazil, Spain, Belgium",
+  "country": "France, Brazil, Spain, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Africa, Germany, Netherlands, France",
+  "country": "South Africa, Germany, Netherlands, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Israel, Russia",
+  "country": "United Kingdom, Israel, Russia",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Ireland, United Kingdom, India",
+  "country": "United States, Ireland, United Kingdom, India",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "New Zealand, Australia, France, United States",
+  "country": "New Zealand, Australia, France, United States",
+  "top_genres": [
+    {
+      "genre": "Classic Movies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, South Korea",
+  "country": "United Kingdom, South Korea",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Colombia, Mexico",
+  "country": "Colombia, Mexico",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Philippines, Qatar",
+  "country": "Philippines, Qatar",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Croatia, Slovenia, Serbia, Montenegro",
+  "country": "Croatia, Slovenia, Serbia, Montenegro",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Africa, United States, Japan",
+  "country": "South Africa, United States, Japan",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Arab Emirates, Jordan",
+  "country": "United Arab Emirates, Jordan",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China",
+  "country": "China",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Dramas",
+      "count": 8
+    },
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Comedies",
+      "count": 7
+    },
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 6
+    }
+  ]
+},
+{
+  "_id": "Ireland, United Kingdom, France, Germany",
+  "country": "Ireland, United Kingdom, France, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, Czech Republic",
+  "country": "United Kingdom, United States, Czech Republic",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Docuseries, Science & Nature TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Pakistan, United Arab Emirates",
+  "country": "Pakistan, United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, United States, Argentina",
+  "country": "Italy, United States, Argentina",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Brazil, United States",
+  "country": "Brazil, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Netherlands, Belgium, Germany, Jordan",
+  "country": "Netherlands, Belgium, Germany, Jordan",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, Canada, Belgium",
+  "country": "United States, France, Canada, Belgium",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Czech Republic, United Kingdom, France",
+  "country": "Czech Republic, United Kingdom, France",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, South Africa",
+  "country": "United States, South Africa",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, Horror Movies",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Jordan",
+  "country": "Jordan",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas, Teen TV Shows",
+      "count": 1
+    },
+    {
+      "genre": "International TV Shows, TV Dramas, TV Mysteries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Pakistan, United States",
+  "country": "Pakistan, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Hungary, United States",
+  "country": "Canada, Hungary, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, United States",
+  "country": "Italy, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Classic Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, Horror Movies",
+      "count": 1
+    },
+    {
+      "genre": "Classic Movies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico, Spain",
+  "country": "Mexico, Spain",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Spain, United States",
+  "country": "United Kingdom, France, Spain, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "New Zealand, United Kingdom",
+  "country": "New Zealand, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Brazil",
+  "country": "United States, Brazil",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Japan, Canada",
+  "country": "Japan, Canada",
+  "top_genres": [
+    {
+      "genre": "Anime Series, Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France",
+  "country": "United States, France",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 2
+    },
+    {
+      "genre": "Children & Family Movies",
+      "count": 2
+    },
+    {
+      "genre": "Documentaries, Sports Movies",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "Australia, France, Ireland",
+  "country": "Australia, France, Ireland",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Denmark",
+  "country": "United States, Denmark",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Indonesia",
+  "country": "United States, Indonesia",
+  "top_genres": [
+    {
+      "genre": "Dramas, Romantic Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, Belgium",
+  "country": "Italy, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Cambodia, Romania",
+  "country": "United States, Cambodia, Romania",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Pakistan",
+  "country": "India, Pakistan",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mozambique",
+  "country": "Mozambique",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Switzerland",
+  "country": "Switzerland",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Comedies, TV Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, United Kingdom",
+  "country": "United States, France, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Dramas, Faith & Spirituality",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Germany, United Kingdom, Italy",
+  "country": "United States, Germany, United Kingdom, Italy",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Iceland, Sweden, Belgium",
+  "country": "Iceland, Sweden, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, South Korea, China",
+  "country": "United States, South Korea, China",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, Korean TV Shows",
+      "count": 1
+    },
+    {
+      "genre": "Romantic TV Shows, TV Comedies, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain",
+  "country": "Spain",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 14
+    },
+    {
+      "genre": "Comedies, International Movies",
+      "count": 10
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 10
+    }
+  ]
+},
+{
+  "_id": "Chile, Italy",
+  "country": "Chile, Italy",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, China, Japan, United States",
+  "country": "France, China, Japan, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, France, Canada",
+  "country": "Spain, France, Canada",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Netherlands, Germany, Denmark, United Kingdom",
+  "country": "Netherlands, Germany, Denmark, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Syria, France, Lebanon, Qatar",
+  "country": "Syria, France, Lebanon, Qatar",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Italy",
+  "country": "United States, Italy",
+  "top_genres": [
+    {
+      "genre": "Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Senegal",
+  "country": "United States, Senegal",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Lithuania",
+  "country": "United Kingdom, Lithuania",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, New Zealand",
+  "country": "France, New Zealand",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Portugal, United States",
+  "country": "Portugal, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Faith & Spirituality",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, United Arab Emirates",
+  "country": "Australia, United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Dramas, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Venezuela",
+  "country": "Venezuela",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Czech Republic, United States",
+  "country": "Czech Republic, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Docuseries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark",
+  "country": "Denmark",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 3
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "France, Belgium",
+  "country": "France, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 3
+    },
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 3
+    },
+    {
+      "genre": "Comedies, International Movies",
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": "Romania, United States",
+  "country": "Romania, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Music & Musicals, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Indonesia",
+  "country": "Indonesia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 21
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 15
+    },
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 9
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, Ireland",
+  "country": "United Kingdom, United States, Ireland",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, France",
+  "country": "United Kingdom, United States, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Canada, Germany",
+  "country": "United States, Canada, Germany",
+  "top_genres": [
+    {
+      "genre": "Comedies, Cult Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Spain, Germany",
+  "country": "United States, Spain, Germany",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, United Kingdom, United States",
+  "country": "Germany, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Children & Family Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Belgium, United States",
+  "country": "United Kingdom, France, Belgium, United States",
+  "top_genres": [
+    {
+      "genre": "Independent Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, France, Russia",
+  "country": "Germany, France, Russia",
+  "top_genres": [
+    {
+      "genre": "Docuseries, International TV Shows, Science & Nature TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Spain",
+  "country": "United States, Spain",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies, Sci-Fi & Fantasy",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, LGBTQ Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, France",
+  "country": "United States, United Kingdom, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Poland",
+  "country": "United States, Poland",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Action & Adventure, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, Switzerland, Albania, Poland",
+  "country": "Italy, Switzerland, Albania, Poland",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Peru, United States, United Kingdom",
+  "country": "Peru, United States, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Pakistan, Norway, United States",
+  "country": "Pakistan, Norway, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Nigeria",
+  "country": "United States, Nigeria",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, United States, Australia",
+  "country": "China, United States, Australia",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, France",
+  "country": "Spain, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 2
+    },
+    {
+      "genre": "Horror Movies, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, United Kingdom, South Africa, Sweden, Belgium",
+  "country": "Denmark, United Kingdom, South Africa, Sweden, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, United States",
+  "country": "Spain, United States",
+  "top_genres": [
+    {
+      "genre": "Sci-Fi & Fantasy, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, Japan",
+  "country": "China, Japan",
+  "top_genres": [
+    {
+      "genre": "Anime Features, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, Australia",
+  "country": "Germany, Australia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Nigeria",
+  "country": "Canada, Nigeria",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Canada",
+  "country": "France, Canada",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    },
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Australia",
+  "country": "India, Australia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Germany",
+  "country": "Canada, Germany",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Norway, Denmark, Germany, Sweden",
+  "country": "United Kingdom, Norway, Denmark, Germany, Sweden",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United States, India, United Kingdom",
+  "country": "Canada, United States, India, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Comedies, Horror Movies, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Germany, France, United States",
+  "country": "United Kingdom, Germany, France, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Netherlands, South Africa, Finland",
+  "country": "France, Netherlands, South Africa, Finland",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Canada, Belgium, United Kingdom",
+  "country": "United States, Canada, Belgium, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Iran, United States",
+  "country": "France, Iran, United States",
+  "top_genres": [
+    {
+      "genre": "Classic Movies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, India",
+  "country": "United Kingdom, India",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Music & Musicals",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, Brazil, France, Portugal, Sweden",
+  "country": "Denmark, Brazil, France, Portugal, Sweden",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Belgium, Ireland, United States",
+  "country": "United Kingdom, France, Belgium, Ireland, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Nigeria, United States",
+  "country": "Canada, Nigeria, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Taiwan",
+  "country": "Taiwan",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Comedies",
+      "count": 31
+    },
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Dramas",
+      "count": 12
+    },
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 6
+    }
+  ]
+},
+{
+  "_id": "United Arab Emirates, Jordan, Lebanon, Saudi Arabia",
+  "country": "United Arab Emirates, Jordan, Lebanon, Saudi Arabia",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, United Kingdom",
+  "country": "France, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, India, Sweden",
+  "country": "United Kingdom, India, Sweden",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Egypt, Algeria",
+  "country": "Egypt, Algeria",
+  "top_genres": [
+    {
+      "genre": "Classic Movies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": ", France, Algeria",
+  "country": ", France, Algeria",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Algeria",
+  "country": "France, Algeria",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Iceland",
+  "country": "Iceland",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 2
+    },
+    {
+      "genre": "Stand-Up Comedy",
+      "count": 1
+    },
+    {
+      "genre": "International TV Shows, TV Dramas, TV Mysteries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States",
+  "country": "United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 249
+    },
+    {
+      "genre": "Stand-Up Comedy",
+      "count": 209
+    },
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 90
+    }
+  ]
+},
+{
+  "_id": "Canada, United States, Cayman Islands",
+  "country": "Canada, United States, Cayman Islands",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Canada, United Kingdom",
+  "country": "United States, Canada, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Canada, United States, Germany",
+  "country": "United Kingdom, Canada, United States, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, Sci-Fi & Fantasy, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Malawi",
+  "country": "United Kingdom, Malawi",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Austria, Czech Republic",
+  "country": "Austria, Czech Republic",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Singapore",
+  "country": "Singapore",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 6
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 4
+    },
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Dramas",
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": "Spain, Italy, Argentina",
+  "country": "Spain, Italy, Argentina",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Hungary, United States",
+  "country": "Hungary, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, United Kingdom",
+  "country": "Spain, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Korea, United States",
+  "country": "South Korea, United States",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV, TV Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Comedies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Poland, West Germany",
+  "country": "Poland, West Germany",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, India, South Korea, China",
+  "country": "United States, India, South Korea, China",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Hong Kong, China, United States",
+  "country": "Hong Kong, China, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Comedies, Cult Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Spain, France",
+  "country": "Canada, Spain, France",
+  "top_genres": [
+    {
+      "genre": "Independent Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United States, United Kingdom",
+  "country": "Canada, United States, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Horror Movies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, France, United States, Germany, Qatar",
+  "country": "Argentina, France, United States, Germany, Qatar",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Indonesia, United States",
+  "country": "Indonesia, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, United States, United Kingdom",
+  "country": "China, United States, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, United Kingdom",
+  "country": "India, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Comedies, Independent Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Poland",
+  "country": "Poland",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 4
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 3
+    },
+    {
+      "genre": "Comedies, Dramas, Independent Movies",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "Chile, Peru",
+  "country": "Chile, Peru",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Japan, United States",
+  "country": "Canada, Japan, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Belgium",
+  "country": "United Kingdom, France, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Belgium, Sweden",
+  "country": "United Kingdom, Belgium, Sweden",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, Uruguay, Spain, France",
+  "country": "Argentina, Uruguay, Spain, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, United States, Mexico",
+  "country": "Argentina, United States, Mexico",
+  "top_genres": [
+    {
+      "genre": "Docuseries, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, United Kingdom, France",
+  "country": "Italy, United Kingdom, France",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, China, Colombia",
+  "country": "United States, China, Colombia",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Australia, Canada, United States",
+  "country": "United Kingdom, Australia, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Colombia, Mexico",
+  "country": "United States, Colombia, Mexico",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, TV Action & Adventure, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Israel, Italy, South Africa",
+  "country": "United States, Israel, Italy, South Africa",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, Docuseries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Jamaica, United States",
+  "country": "Jamaica, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Philippines, Canada, United Kingdom, United States",
+  "country": "Philippines, Canada, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, LGBTQ Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, Germany, India, United States",
+  "country": "China, Germany, India, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Belgium, France, Netherlands",
+  "country": "Belgium, France, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, Taiwan",
+  "country": "China, Taiwan",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Argentina",
+  "country": "Spain, Argentina",
+  "top_genres": [
+    {
+      "genre": "Comedies, Horror Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Czech Republic, United States, Germany, Bahamas",
+  "country": "United Kingdom, Czech Republic, United States, Germany, Bahamas",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, India, Bangladesh",
+  "country": "United States, India, Bangladesh",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Greece, United States",
+  "country": "Greece, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, LGBTQ Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina",
+  "country": "Argentina",
+  "top_genres": [
+    {
+      "genre": "Stand-Up Comedy",
+      "count": 8
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 6
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 6
+    }
+  ]
+},
+{
+  "_id": "Hong Kong, Taiwan",
+  "country": "Hong Kong, Taiwan",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, United States, Mexico",
+  "country": "France, United States, Mexico",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Israel, Germany, France",
+  "country": "Israel, Germany, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United States, Mexico",
+  "country": "Canada, United States, Mexico",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Romantic Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Bulgaria, United States",
+  "country": "Bulgaria, United States",
+  "top_genres": [
+    {
+      "genre": "International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Luxembourg",
+  "country": "Luxembourg",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, France, Canada, United States",
+  "country": "Spain, France, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Philippines, United States",
+  "country": "Philippines, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, Japan",
+  "country": "United Kingdom, United States, Japan",
+  "top_genres": [
+    {
+      "genre": "Documentaries, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Australia, Samoa, United Kingdom",
+  "country": "United States, Australia, Samoa, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, China, Hong Kong",
+  "country": "United States, China, Hong Kong",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Thailand",
+  "country": "United States, Thailand",
+  "top_genres": [
+    {
+      "genre": "Horror Movies",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Germany, Canada, United States",
+  "country": "United Kingdom, Germany, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Poland, United States",
+  "country": "United Kingdom, Poland, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Egypt, United States",
+  "country": "United Kingdom, Egypt, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, Germany",
+  "country": "Australia, Germany",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Kids' TV, TV Mysteries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Sweden, Czech Republic, United Kingdom, Denmark, Netherlands",
+  "country": "Sweden, Czech Republic, United Kingdom, Denmark, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, New Zealand, United Kingdom",
+  "country": "United States, New Zealand, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, France, Uruguay",
+  "country": "Spain, France, Uruguay",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, Germany, Belgium, United Kingdom, France, Sweden",
+  "country": "Denmark, Germany, Belgium, United Kingdom, France, Sweden",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, Sri Lanka",
+  "country": "Germany, Sri Lanka",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway, Iceland, United States",
+  "country": "Norway, Iceland, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "France, United States, Canada",
+  "country": "France, United States, Canada",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, France, Italy",
+  "country": "United Kingdom, United States, France, Italy",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, Iraq",
+  "country": "Australia, Iraq",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Japan",
+  "country": "United Kingdom, Japan",
+  "top_genres": [
+    {
+      "genre": "Dramas, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Spain, South Korea",
+  "country": "United States, United Kingdom, Spain, South Korea",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, South Korea",
+  "country": "United States, South Korea",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Cambodia, United States",
+  "country": "Cambodia, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Iran, France",
+  "country": "Iran, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Lebanon, Canada, France",
+  "country": "Lebanon, Canada, France",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "Lebanon, Palestine, Denmark, Qatar",
+  "country": "Lebanon, Palestine, Denmark, Qatar",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Malaysia",
+  "country": "India, Malaysia",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Korea, China, United States",
+  "country": "South Korea, China, United States",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, France, Iceland, United States, Mexico, Belgium, United Kingdom, Hong Kong",
+  "country": "Ireland, France, Iceland, United States, Mexico, Belgium, United Kingdom, Hong Kong",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, Venezuela",
+  "country": "Argentina, Venezuela",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Turkey, France, Germany, Poland",
+  "country": "Turkey, France, Germany, Poland",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Korea, China",
+  "country": "South Korea, China",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Uruguay, Argentina",
+  "country": "Uruguay, Argentina",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Kenya, United States",
+  "country": "Kenya, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, Switzerland, United Kingdom, France, United States",
+  "country": "Ireland, Switzerland, United Kingdom, France, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, Canada",
+  "country": "Australia, Canada",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, France, Belgium, Italy, Netherlands, United States, United Kingdom",
+  "country": "Denmark, France, Belgium, Italy, Netherlands, United States, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Hong Kong, China, Singapore",
+  "country": "Hong Kong, China, Singapore",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Canada, United States, Cayman Islands",
+  "country": "United Kingdom, Canada, United States, Cayman Islands",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Denmark, Canada, Croatia",
+  "country": "United Kingdom, Denmark, Canada, Croatia",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Finland, France",
+  "country": "Finland, France",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Serbia, United States",
+  "country": "Serbia, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Germany, Australia",
+  "country": "United States, Germany, Australia",
+  "top_genres": [
+    {
+      "genre": "Comedies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, United Kingdom, United States",
+  "country": "Spain, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, France, Italy",
+  "country": "Spain, France, Italy",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, United States",
+  "country": "China, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, Sweden, Israel, United States",
+  "country": "Denmark, Sweden, Israel, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, United Kingdom",
+  "country": "Ireland, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mauritius, South Africa",
+  "country": "Mauritius, South Africa",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway, Denmark, Sweden",
+  "country": "Norway, Denmark, Sweden",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, France, Italy, Morocco, United States",
+  "country": "Canada, France, Italy, Morocco, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway, Germany",
+  "country": "Norway, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Colombia",
+  "country": "Colombia",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 11
+    },
+    {
+      "genre": "Stand-Up Comedy",
+      "count": 4
+    },
+    {
+      "genre": "International TV Shows, Romantic TV Shows, Spanish-Language TV Shows",
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": "Denmark, Germany, Belgium, United Kingdom, France",
+  "country": "Denmark, Germany, Belgium, United Kingdom, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Africa, United States",
+  "country": "South Africa, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies, Music & Musicals",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Dramas, Faith & Spirituality",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Nigeria",
+  "country": "United Kingdom, Nigeria",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, Dominican Republic",
+  "country": "United Kingdom, United States, Dominican Republic",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Sweden, Norway",
+  "country": "United States, Sweden, Norway",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "West Germany",
+  "country": "West Germany",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Zimbabwe",
+  "country": "Zimbabwe",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Lebanon, United States, United Arab Emirates",
+  "country": "Lebanon, United States, United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, India",
+  "country": "United States, India",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 2
+    },
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Hong Kong",
+  "country": "Hong Kong",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 9
+    },
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 9
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": "Canada, Luxembourg",
+  "country": "Canada, Luxembourg",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, South Korea, Japan",
+  "country": "France, South Korea, Japan",
+  "top_genres": [
+    {
+      "genre": "Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, India, Thailand, United States, United Arab Emirates",
+  "country": "Canada, India, Thailand, United States, United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Senegal, Belgium",
+  "country": "France, Senegal, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Pakistan",
+  "country": "Pakistan",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Dramas",
+      "count": 3
+    },
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 2
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Czech Republic, Germany, United States",
+  "country": "United Kingdom, Czech Republic, Germany, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Horror Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, Spain, Germany, Greece, Canada",
+  "country": "United Kingdom, United States, Spain, Germany, Greece, Canada",
+  "top_genres": [
+    {
+      "genre": "Movies",
+      "count": 2
+    },
+    {
+      "genre": "British TV Shows, Docuseries, Science & Nature TV",
+      "count": 1
+    },
+    {
+      "genre": "British TV Shows, Docuseries, International TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, United Kingdom, United States, New Zealand, Italy, France",
+  "country": "Australia, United Kingdom, United States, New Zealand, Italy, France",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Brazil, India, China, United States",
+  "country": "Brazil, India, China, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, Faith & Spirituality",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Qatar",
+  "country": "France, Qatar",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, United Kingdom, China, Canada, Japan, South Korea, United States",
+  "country": "India, United Kingdom, China, Canada, Japan, South Korea, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Belgium, United States",
+  "country": "Spain, Belgium, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Morocco",
+  "country": "United States, United Kingdom, Morocco",
+  "top_genres": [
+    {
+      "genre": "Dramas, Faith & Spirituality",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Belgium, Ireland, Netherlands, Germany, Afghanistan",
+  "country": "Belgium, Ireland, Netherlands, Germany, Afghanistan",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Philippines",
+  "country": "Philippines",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 21
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 13
+    },
+    {
+      "genre": "International Movies, Romantic Movies",
+      "count": 9
+    }
+  ]
+},
+{
+  "_id": "France, United Kingdom, United States",
+  "country": "France, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Netherlands, Germany, Italy, Canada",
+  "country": "Netherlands, Germany, Italy, Canada",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Germany, Denmark, United States",
+  "country": "Spain, Germany, Denmark, United States",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, Docuseries, International TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Turkey, India",
+  "country": "Turkey, India",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Africa, United States, Germany",
+  "country": "South Africa, United States, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Italy",
+  "country": "United Kingdom, Italy",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Israel, United Kingdom, Canada",
+  "country": "United States, Israel, United Kingdom, Canada",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Portugal",
+  "country": "Spain, Portugal",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Belgium, China, United States",
+  "country": "France, Belgium, China, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, India, United States",
+  "country": "United Kingdom, India, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Belgium, Italy",
+  "country": "France, Belgium, Italy",
+  "top_genres": [
+    {
+      "genre": "Classic Movies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Canada, United States",
+  "country": "Spain, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Dramas, Faith & Spirituality",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, United States",
+  "country": "Argentina, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Nigeria, United Kingdom",
+  "country": "Nigeria, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Taiwan, Hong Kong, United States, China",
+  "country": "Taiwan, Hong Kong, United States, China",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Spain",
+  "country": "United Kingdom, Spain",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Crime TV Shows, International TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Ukraine, United States",
+  "country": "United Kingdom, Ukraine, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Lebanon",
+  "country": "Lebanon",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 2
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "Germany",
+  "country": "Germany",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies",
+      "count": 7
+    },
+    {
+      "genre": "Stand-Up Comedy",
+      "count": 5
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": "Switzerland, United Kingdom, United States",
+  "country": "Switzerland, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Netherlands",
+  "country": "Netherlands",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 3
+    },
+    {
+      "genre": "Children & Family Movies, Comedies, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Comedies, International Movies",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "Germany, United States, France",
+  "country": "Germany, United States, France",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Canada, China",
+  "country": "United States, United Kingdom, Canada, China",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Russia",
+  "country": "United States, Russia",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    },
+    {
+      "genre": "Horror Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Canada, France, United States",
+  "country": "United Kingdom, Canada, France, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, United States",
+  "country": "Germany, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 3
+    },
+    {
+      "genre": "Dramas",
+      "count": 3
+    },
+    {
+      "genre": "Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Egypt",
+  "country": "France, Egypt",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Classic Movies, Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, France",
+  "country": "Germany, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, Luxembourg, Belgium",
+  "country": "Ireland, Luxembourg, Belgium",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, India, United Arab Emirates",
+  "country": "United States, India, United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United Kingdom",
+  "country": "Canada, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Crime TV Shows, TV Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Arab Emirates, United States, United Kingdom",
+  "country": "United Arab Emirates, United States, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",
+  "country": "Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Mexico",
+  "country": "United States, Mexico",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 4
+    },
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV, TV Action & Adventure, TV Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Colombia, Peru, United Kingdom",
+  "country": "Colombia, Peru, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Brazil, India, Uganda, China",
+  "country": "United States, Brazil, India, Uganda, China",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Brazil",
+  "country": "Canada, Brazil",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, South Korea, Japan, United States",
+  "country": "France, South Korea, Japan, United States",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Chile, Argentina, France, Spain, United States",
+  "country": "Chile, Argentina, France, Spain, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Turkey, United States",
+  "country": "Turkey, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Switzerland, France",
+  "country": "Switzerland, France",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Luxembourg, United States",
+  "country": "France, Luxembourg, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Africa, China, United States",
+  "country": "South Africa, China, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, Morocco, Hong Kong",
+  "country": "China, Morocco, Hong Kong",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Germany",
+  "country": "United Kingdom, Germany",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, Independent Movies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Independent Movies",
+      "count": 1
+    },
+    {
+      "genre": "British TV Shows, Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, East Germany, West Germany",
+  "country": "United States, East Germany, West Germany",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Classic Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Italy, United Kingdom, Liechtenstein",
+  "country": "United States, Italy, United Kingdom, Liechtenstein",
+  "top_genres": [
+    {
+      "genre": "Classic Movies, Dramas, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Germany, Switzerland",
+  "country": "France, Germany, Switzerland",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Cambodia",
+  "country": "United States, Cambodia",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Norway, Canada",
+  "country": "United States, Norway, Canada",
+  "top_genres": [
+    {
+      "genre": "Horror Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Germany, Austria",
+  "country": "India, Germany, Austria",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Cyprus",
+  "country": "Cyprus",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Arab Emirates, United Kingdom, India",
+  "country": "United Arab Emirates, United Kingdom, India",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, South Korea, Japan",
+  "country": "United States, South Korea, Japan",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, United Kingdom",
+  "country": "Germany, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, Spain",
+  "country": "Denmark, Spain",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, Canada",
+  "country": "United States, France, Canada",
+  "top_genres": [
+    {
+      "genre": "TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Brazil",
+  "country": "Brazil",
+  "top_genres": [
+    {
+      "genre": "Stand-Up Comedy",
+      "count": 9
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 5
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": "Kuwait, United States",
+  "country": "Kuwait, United States",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, India, Nepal",
+  "country": "China, India, Nepal",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "New Zealand, United States",
+  "country": "New Zealand, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "Thailand, Canada, United States",
+  "country": "Thailand, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, Italy",
+  "country": "Argentina, Italy",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Australia, United States",
+  "country": "United Kingdom, Australia, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Faith & Spirituality, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Germany, Canada",
+  "country": "United Kingdom, Germany, Canada",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway",
+  "country": "Norway",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Documentaries, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "International TV Shows, TV Dramas, TV Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Uruguay, Guatemala",
+  "country": "Uruguay, Guatemala",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Austria",
+  "country": "Austria",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    },
+    {
+      "genre": "Horror Movies, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "International Movies, Sci-Fi & Fantasy, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Mexico",
+  "country": "Spain, Mexico",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, China, Canada",
+  "country": "United States, China, Canada",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, Mexico",
+  "country": "United States, France, Mexico",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Chile",
+  "country": "Chile",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Spanish-Language TV Shows, TV Dramas",
+      "count": 3
+    },
+    {
+      "genre": "Stand-Up Comedy",
+      "count": 3
+    },
+    {
+      "genre": "Comedies, International Movies",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "Hong Kong, Iceland, United States",
+  "country": "Hong Kong, Iceland, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Venezuela, Colombia",
+  "country": "Venezuela, Colombia",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Israel, Sweden, Germany, Netherlands",
+  "country": "Israel, Sweden, Germany, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Chile, Spain, Argentina, Germany",
+  "country": "Chile, Spain, Argentina, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Canada, Ireland",
+  "country": "United States, Canada, Ireland",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, United States",
+  "country": "United Kingdom, France, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, Music & Musicals",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom,",
+  "country": "United Kingdom,",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Australia, Germany",
+  "country": "France, Australia, Germany",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Uruguay, Spain, Mexico",
+  "country": "Uruguay, Spain, Mexico",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Taiwan",
+  "country": "United States, Taiwan",
+  "top_genres": [
+    {
+      "genre": "Documentaries, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Belgium",
+  "country": "Canada, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Poland, United States",
+  "country": "Poland, United States",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 2
+    },
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Portugal, France, Poland, United States",
+  "country": "Portugal, France, Poland, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Lebanon, United Arab Emirates",
+  "country": "Lebanon, United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Switzerland, United States",
+  "country": "Switzerland, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India",
+  "country": "Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Netherlands, Denmark, France, Germany",
+  "country": "Netherlands, Denmark, France, Germany",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, United States, Belgium",
+  "country": "United Kingdom, France, United States, Belgium",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",
+  "country": "Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Canada, China",
+  "country": "United States, Canada, China",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Independent Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, Morocco",
+  "country": "United Kingdom, United States, Morocco",
+  "top_genres": [
+    {
+      "genre": "Dramas, Faith & Spirituality",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Belgium, Luxembourg, Cambodia,",
+  "country": "France, Belgium, Luxembourg, Cambodia,",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Germany, United Arab Emirates, New Zealand",
+  "country": "United Kingdom, Germany, United Arab Emirates, New Zealand",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, France, Switzerland",
+  "country": "Italy, France, Switzerland",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Romania",
+  "country": "Romania",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Comedies, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "International Movies, Music & Musicals, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Japan",
+  "country": "United States, Japan",
+  "top_genres": [
+    {
+      "genre": "Anime Series, International TV Shows",
+      "count": 4
+    },
+    {
+      "genre": "International TV Shows, Reality TV",
+      "count": 2
+    },
+    {
+      "genre": "Action & Adventure, Anime Features, Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Poland",
+  "country": "United Kingdom, Poland",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Belgium, United States",
+  "country": "France, Belgium, United States",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Belgium, Spain",
+  "country": "France, Belgium, Spain",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, South Africa",
+  "country": "Ireland, South Africa",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Russia",
+  "country": "Russia",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 4
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 4
+    },
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Belgium, Canada, United States",
+  "country": "United Kingdom, France, Belgium, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Germany, Hungary",
+  "country": "United States, United Kingdom, Germany, Hungary",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Horror Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Germany",
+  "country": "France, Germany",
+  "top_genres": [
+    {
+      "genre": "Docuseries, International TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Iceland",
+  "country": "United States, Iceland",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Puerto Rico, United States, Colombia",
+  "country": "Puerto Rico, United States, Colombia",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Japan, United States",
+  "country": "France, Japan, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, France, Germany, Japan",
+  "country": "United States, United Kingdom, France, Germany, Japan",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Ireland",
+  "country": "United Kingdom, Ireland",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    },
+    {
+      "genre": "British TV Shows, Crime TV Shows, TV Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, China",
+  "country": "Denmark, China",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Germany, Mexico",
+  "country": "United States, Germany, Mexico",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy",
+  "country": "Italy",
+  "top_genres": [
+    {
+      "genre": "Stand-Up Comedy",
+      "count": 4
+    },
+    {
+      "genre": "Comedies, International Movies",
+      "count": 4
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": "United States, Canada, Indonesia, United Kingdom, China, Singapore",
+  "country": "United States, Canada, Indonesia, United Kingdom, China, Singapore",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, South Africa",
+  "country": "Canada, South Africa",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Hong Kong",
+  "country": "United States, Hong Kong",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    },
+    {
+      "genre": "Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India",
+  "country": "India",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 120
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 118
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 108
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Japan",
+  "country": "United States, United Kingdom, Japan",
+  "top_genres": [
+    {
+      "genre": "Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Czech Republic, Slovakia",
+  "country": "Czech Republic, Slovakia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Uruguay, Germany",
+  "country": "Uruguay, Germany",
+  "top_genres": [
+    {
+      "genre": "Docuseries, International TV Shows, Science & Nature TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, South Africa, France",
+  "country": "United Kingdom, South Africa, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Romania, United Kingdom",
+  "country": "Romania, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Colombia",
+  "country": "United States, Colombia",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Spanish-Language TV Shows, TV Dramas",
+      "count": 2
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Russia, United States, China",
+  "country": "Russia, United States, China",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Cambodia",
+  "country": "Cambodia",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Egypt, Denmark, Germany",
+  "country": "Egypt, Denmark, Germany",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Canada, United States",
+  "country": "France, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Canada, United States, Spain",
+  "country": "France, Canada, United States, Spain",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Nepal",
+  "country": "India, Nepal",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Israel, United States",
+  "country": "Israel, United States",
+  "top_genres": [
+    {
+      "genre": "TV Action & Adventure, TV Dramas, TV Mysteries",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Philippines, Singapore",
+  "country": "Philippines, Singapore",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Senegal",
+  "country": "Senegal",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, Spain, South Korea, United States",
+  "country": "China, Spain, South Korea, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Thailand",
+  "country": "Thailand",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 6
+    },
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Dramas",
+      "count": 6
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": "United States, Australia, China",
+  "country": "United States, Australia, China",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Japan",
+  "country": "Japan",
+  "top_genres": [
+    {
+      "genre": "Anime Series, International TV Shows",
+      "count": 75
+    },
+    {
+      "genre": "Action & Adventure, Anime Features, International Movies",
+      "count": 32
+    },
+    {
+      "genre": "Anime Series, Kids' TV",
+      "count": 12
+    }
+  ]
+},
+{
+  "_id": "United States, Hungary",
+  "country": "United States, Hungary",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Germany, Spain, United States",
+  "country": "United Kingdom, Germany, Spain, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Chile, Brazil",
+  "country": "Chile, Brazil",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Israel, Germany, Poland, Luxembourg, Belgium, France, United States",
+  "country": "Israel, Germany, Poland, Luxembourg, Belgium, France, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Lebanon, Qatar",
+  "country": "Lebanon, Qatar",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Luxembourg, Canada",
+  "country": "France, Luxembourg, Canada",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Slovenia, Croatia, Germany, Czech Republic, Qatar",
+  "country": "Slovenia, Croatia, Germany, Czech Republic, Qatar",
+  "top_genres": [
+    {
+      "genre": "Comedies, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico, United States",
+  "country": "Mexico, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Documentaries",
+      "count": 1
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Switzerland",
+  "country": "United States, Switzerland",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, United States, France",
+  "country": "Ireland, United States, France",
+  "top_genres": [
+    {
+      "genre": "Documentaries, Faith & Spirituality",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Brazil, South Korea, Mexico, Japan, Germany",
+  "country": "United States, Brazil, South Korea, Mexico, Japan, Germany",
+  "top_genres": [
+    {
+      "genre": "Reality TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Belarus",
+  "country": "Belarus",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Egypt, Saudi Arabia",
+  "country": "Egypt, Saudi Arabia",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Belgium",
+  "country": "Belgium",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 4
+    },
+    {
+      "genre": "International TV Shows, TV Dramas, TV Mysteries",
+      "count": 2
+    },
+    {
+      "genre": "International TV Shows, TV Action & Adventure, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Thailand, United States",
+  "country": "Thailand, United States",
+  "top_genres": [
+    {
+      "genre": "Horror Movies",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Czech Republic, United Kingdom, United States",
+  "country": "Czech Republic, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Namibia",
+  "country": "Namibia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, Singapore, Canada, United States",
+  "country": "Denmark, Singapore, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Canada, Belgium",
+  "country": "France, Canada, Belgium",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Mexico, Spain, Malta",
+  "country": "United States, Mexico, Spain, Malta",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, TV Action & Adventure, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Austria, Iraq, United States",
+  "country": "Austria, Iraq, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico, Brazil",
+  "country": "Mexico, Brazil",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Finland, Sweden, Norway, Latvia, Germany",
+  "country": "Finland, Sweden, Norway, Latvia, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, India",
+  "country": "United States, United Kingdom, India",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Norway",
+  "country": "Canada, Norway",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, Germany, Denmark, Belgium, Japan",
+  "country": "United Kingdom, United States, Germany, Denmark, Belgium, Japan",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Kenya",
+  "country": "Kenya",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Indonesia, Singapore",
+  "country": "Indonesia, Singapore",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Singapore, France",
+  "country": "Singapore, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Georgia, Germany, France",
+  "country": "Georgia, Germany, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, South Korea, Indonesia",
+  "country": "United States, France, South Korea, Indonesia",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United Kingdom, United States",
+  "country": "Canada, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    },
+    {
+      "genre": "Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, France, United States, Sweden",
+  "country": "Denmark, France, United States, Sweden",
+  "top_genres": [
+    {
+      "genre": "Cult Movies, Independent Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway, Sweden",
+  "country": "Norway, Sweden",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas, TV Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Mexico",
+  "country": "India, Mexico",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, United States, United Kingdom",
+  "country": "Ireland, United States, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Cuba",
+  "country": "Spain, Cuba",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Botswana",
+  "country": "United States, Botswana",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Belgium, Netherlands",
+  "country": "Belgium, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Africa, United States, New Zealand, Canada",
+  "country": "South Africa, United States, New Zealand, Canada",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Greece, Brazil",
+  "country": "United States, Greece, Brazil",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Germany, United Kingdom, Australia",
+  "country": "United States, Germany, United Kingdom, Australia",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": null,
+  "country": null,
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 70
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 44
+    },
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 36
+    }
+  ]
+},
+{
+  "_id": "United Arab Emirates, Romania",
+  "country": "United Arab Emirates, Romania",
+  "top_genres": [
+    {
+      "genre": "International Movies, Sci-Fi & Fantasy, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Singapore, United States",
+  "country": "Singapore, United States",
+  "top_genres": [
+    {
+      "genre": "Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "International TV Shows, Reality TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Morocco",
+  "country": "United States, Morocco",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Germany",
+  "country": "India, Germany",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Music & Musicals",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Canada, Italy",
+  "country": "United Kingdom, Canada, Italy",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway, Denmark",
+  "country": "Norway, Denmark",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Action & Adventure, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Japan",
+  "country": "India, Japan",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Australia, France",
+  "country": "United Kingdom, Australia, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Germany",
+  "country": "United Kingdom, France, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, France",
+  "country": "Argentina, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Italy",
+  "country": "United States, United Kingdom, Italy",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, Australia, France, China",
+  "country": "Germany, Australia, France, China",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Belgium, Luxembourg, Romania, Canada, United States",
+  "country": "France, Belgium, Luxembourg, Romania, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, United States, Canada",
+  "country": "Germany, United States, Canada",
+  "top_genres": [
+    {
+      "genre": "Comedies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, South Korea, United States",
+  "country": "China, South Korea, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Singapore, Malaysia",
+  "country": "Singapore, Malaysia",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, United Kingdom",
+  "country": "Australia, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Docuseries, International TV Shows",
+      "count": 1
+    },
+    {
+      "genre": "Classic Movies, Comedies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Africa",
+  "country": "South Africa",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 6
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 4
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": "Paraguay, Argentina",
+  "country": "Paraguay, Argentina",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway, United Kingdom, France, Ireland",
+  "country": "Norway, United Kingdom, France, Ireland",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, Germany",
+  "country": "Italy, Germany",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, Australia",
+  "country": "United Kingdom, United States, Australia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, LGBTQ Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Bulgaria",
+  "country": "Bulgaria",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Namibia, South Africa, Zimbabwe, United States",
+  "country": "United Kingdom, Namibia, South Africa, Zimbabwe, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, United States, Hong Kong, Singapore",
+  "country": "Germany, United States, Hong Kong, Singapore",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Cult Movies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, Brazil, Greece",
+  "country": "Italy, Brazil, Greece",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Soviet Union",
+  "country": "India, Soviet Union",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Music & Musicals",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Singapore, Japan, France",
+  "country": "Singapore, Japan, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mauritius",
+  "country": "Mauritius",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Africa, Angola",
+  "country": "South Africa, Angola",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Mexico, Colombia",
+  "country": "United States, Mexico, Colombia",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Brazil, Netherlands, United States, Colombia, Austria, Germany",
+  "country": "Brazil, Netherlands, United States, Colombia, Austria, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Taiwan, China, France, United States",
+  "country": "Taiwan, China, France, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United States, United Kingdom, France, Luxembourg",
+  "country": "Canada, United States, United Kingdom, France, Luxembourg",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Brazil, United Kingdom",
+  "country": "Brazil, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Reality TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Finland, Germany, Belgium",
+  "country": "Finland, Germany, Belgium",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Japan, Netherlands",
+  "country": "Canada, Japan, Netherlands",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, Spain",
+  "country": "Argentina, Spain",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 2
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, United States",
+  "country": "India, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Mexico, Germany, South Africa",
+  "country": "Canada, Mexico, Germany, South Africa",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Japan, United States",
+  "country": "Japan, United States",
+  "top_genres": [
+    {
+      "genre": "Anime Series, International TV Shows",
+      "count": 2
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Action & Adventure, Anime Features, Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Belgium, United Kingdom",
+  "country": "Belgium, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United States, Ireland",
+  "country": "Canada, United States, Ireland",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Kuwait",
+  "country": "Kuwait",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "International Movies, Sci-Fi & Fantasy, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Netherlands, Belgium, United Kingdom, United States",
+  "country": "Netherlands, Belgium, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Romania, France, Switzerland, Germany",
+  "country": "Romania, France, Switzerland, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway, Denmark, Netherlands, Sweden",
+  "country": "Norway, Denmark, Netherlands, Sweden",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Saudi Arabia, Syria, Egypt, Lebanon, Kuwait",
+  "country": "Saudi Arabia, Syria, Egypt, Lebanon, Kuwait",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Italy",
+  "country": "Spain, Italy",
+  "top_genres": [
+    {
+      "genre": "International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Bermuda, Ecuador",
+  "country": "United States, Bermuda, Ecuador",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, United States, Italy",
+  "country": "Germany, United States, Italy",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Canada, Italy, United States, China",
+  "country": "France, Canada, Italy, United States, China",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, United States, Sweden",
+  "country": "Germany, United States, Sweden",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Sweden, United States",
+  "country": "Sweden, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 2
+    },
+    {
+      "genre": "Documentaries, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Belgium, France",
+  "country": "Belgium, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, United Kingdom, Italy, United States",
+  "country": "Ireland, United Kingdom, Italy, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, China",
+  "country": "United States, China",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 2
+    },
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    },
+    {
+      "genre": "Horror Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States",
+  "country": "United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 8
+    },
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 5
+    },
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": "South Korea, France",
+  "country": "South Korea, France",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Germany, United Kingdom",
+  "country": "United States, Germany, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Finland",
+  "country": "Finland",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Finland, Germany",
+  "country": "Finland, Germany",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ghana, United States",
+  "country": "Ghana, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico, Argentina",
+  "country": "Mexico, Argentina",
+  "top_genres": [
+    {
+      "genre": "Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Belgium",
+  "country": "United Kingdom, Belgium",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Malta, United States",
+  "country": "France, Malta, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, Uruguay, Serbia",
+  "country": "Argentina, Uruguay, Serbia",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ghana",
+  "country": "Ghana",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Arab Emirates, United States",
+  "country": "United Arab Emirates, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, South Africa",
+  "country": "United Kingdom, South Africa",
+  "top_genres": [
+    {
+      "genre": "Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, France, Germany",
+  "country": "United Kingdom, United States, France, Germany",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Brazil, Germany",
+  "country": "United Kingdom, Brazil, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, India, France",
+  "country": "United States, India, France",
+  "top_genres": [
+    {
+      "genre": "Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, France, Luxembourg, United Kingdom, United States",
+  "country": "Germany, France, Luxembourg, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Egypt, France",
+  "country": "Egypt, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Turkey",
+  "country": "Turkey",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies",
+      "count": 23
+    },
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 16
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 9
+    }
+  ]
+},
+{
+  "_id": "France, Switzerland, Spain, United States, United Arab Emirates",
+  "country": "France, Switzerland, Spain, United States, United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Kazakhstan",
+  "country": "United States, Kazakhstan",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, United States, United Kingdom, Canada",
+  "country": "France, United States, United Kingdom, Canada",
+  "top_genres": [
+    {
+      "genre": "Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Germany, Canada",
+  "country": "United States, Germany, Canada",
+  "top_genres": [
+    {
+      "genre": "Thrillers",
+      "count": 2
+    },
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Italy, France, Japan",
+  "country": "United States, Italy, France, Japan",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, New Zealand, Japan",
+  "country": "United States, New Zealand, Japan",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Venezuela",
+  "country": "United States, Venezuela",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Brazil, Japan, Spain, India",
+  "country": "United States, Brazil, Japan, Spain, India",
+  "top_genres": [
+    {
+      "genre": "Docuseries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Uruguay, Argentina, Germany, Spain",
+  "country": "Uruguay, Argentina, Germany, Spain",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Brazil, France, Germany",
+  "country": "Brazil, France, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Germany",
+  "country": "Spain, Germany",
+  "top_genres": [
+    {
+      "genre": "International Movies, Thrillers",
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Canada, Japan",
+  "country": "United Kingdom, Canada, Japan",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico, Finland",
+  "country": "Mexico, Finland",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Russia",
+  "country": "United Kingdom, Russia",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Australia, Mexico",
+  "country": "United States, Australia, Mexico",
+  "top_genres": [
+    {
+      "genre": "Horror Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, China",
+  "country": "United Kingdom, China",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, Zimbabwe",
+  "country": "Denmark, Zimbabwe",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Canada, Belgium, United States",
+  "country": "United Kingdom, France, Canada, Belgium, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Pakistan",
+  "country": "United Kingdom, Pakistan",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Chile",
+  "country": "United States, Chile",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Independent Movies",
+      "count": 1
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Horror Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Arab Emirates",
+  "country": "United States, United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Canada, Japan",
+  "country": "United States, United Kingdom, Canada, Japan",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, Cult Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Japan, Canada, United States",
+  "country": "Japan, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Anime Series, Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, Italy, United Kingdom",
+  "country": "United States, France, Italy, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Netherlands, Japan, France",
+  "country": "United States, Netherlands, Japan, France",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, West Germany",
+  "country": "United Kingdom, West Germany",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, Denmark",
+  "country": "United States, France, Denmark",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United States, Germany",
+  "country": "Canada, United States, Germany",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Africa, Nigeria",
+  "country": "South Africa, Nigeria",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Iran",
+  "country": "India, Iran",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Australia",
+  "country": "Canada, Australia",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Saudi Arabia",
+  "country": "Saudi Arabia",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "TV Shows",
+      "count": 1
+    },
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, United Kingdom, Japan",
+  "country": "United States, France, United Kingdom, Japan",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, United States, Belgium, Luxembourg, China, Germany",
+  "country": "United Kingdom, France, United States, Belgium, Luxembourg, China, Germany",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Lebanon, United Kingdom",
+  "country": "France, Lebanon, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, Hong Kong, United States",
+  "country": "China, Hong Kong, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Sweden",
+  "country": "United States, Sweden",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Dramas, Independent Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, Japan",
+  "country": "United States, France, Japan",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 4
+    },
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 2
+    },
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Canada, Japan, Panama",
+  "country": "United States, Canada, Japan, Panama",
+  "top_genres": [
+    {
+      "genre": "Documentaries, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Finland, United States",
+  "country": "Finland, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, United Kingdom, India",
+  "country": "France, United Kingdom, India",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, South Korea, United States",
+  "country": "Canada, South Korea, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Colombia",
+  "country": "Spain, Colombia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Morocco",
+  "country": "France, Morocco",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Belgium",
+  "country": "Spain, Belgium",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Turkey, Azerbaijan",
+  "country": "Turkey, Azerbaijan",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, United Kingdom, Canada",
+  "country": "Australia, United Kingdom, Canada",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Hungary, Australia",
+  "country": "United Kingdom, Hungary, Australia",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Czech Republic",
+  "country": "United States, Czech Republic",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, Docuseries, International TV Shows",
+      "count": 2
+    },
+    {
+      "genre": "Comedies, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Reality TV, TV Horror, TV Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Germany, France, United States",
+  "country": "Canada, Germany, France, United States",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "New Zealand, United Kingdom, Australia",
+  "country": "New Zealand, United Kingdom, Australia",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Uruguay",
+  "country": "United States, Uruguay",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, United Kingdom, Canada, United States",
+  "country": "India, United Kingdom, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Taiwan, Malaysia",
+  "country": "Taiwan, Malaysia",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas, TV Mysteries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Korea, Canada, United States, China",
+  "country": "South Korea, Canada, United States, China",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, Switzerland, France, Germany",
+  "country": "Italy, Switzerland, France, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico, United States, Spain, Colombia",
+  "country": "Mexico, United States, Spain, Colombia",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Spain, United States, Germany",
+  "country": "United Kingdom, Spain, United States, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, Sci-Fi & Fantasy, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, Canada",
+  "country": "Ireland, Canada",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico, France, Colombia",
+  "country": "Mexico, France, Colombia",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France",
+  "country": "United Kingdom, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Czech Republic, United Kingdom",
+  "country": "United States, Czech Republic, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, Turkey",
+  "country": "Italy, Turkey",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Romania, Bulgaria, Hungary",
+  "country": "Romania, Bulgaria, Hungary",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United States, France",
+  "country": "Canada, United States, France",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, Kids' TV, TV Comedies",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Hong Kong, United States",
+  "country": "Hong Kong, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Classic Movies",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Bulgaria, United States, Spain, Canada",
+  "country": "Bulgaria, United States, Spain, Canada",
+  "top_genres": [
+    {
+      "genre": "International Movies, Sci-Fi & Fantasy, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Poland, Germany, United States",
+  "country": "United Kingdom, France, Poland, Germany, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Norway, Lebanon, Belgium",
+  "country": "France, Norway, Lebanon, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Spain",
+  "country": "Canada, Spain",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Russia, United States",
+  "country": "United Kingdom, Russia, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Canada",
+  "country": "United States, Canada",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 12
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 9
+    },
+    {
+      "genre": "Children & Family Movies",
+      "count": 6
+    }
+  ]
+},
+{
+  "_id": "United States, China, United Kingdom",
+  "country": "United States, China, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, New Zealand",
+  "country": "United States, United Kingdom, New Zealand",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Vietnam",
+  "country": "Vietnam",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, Serbia",
+  "country": "United States, France, Serbia",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, New Zealand",
+  "country": "United States, New Zealand",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 2
+    },
+    {
+      "genre": "Dramas, Romantic Movies, Sci-Fi & Fantasy",
+      "count": 1
+    },
+    {
+      "genre": "TV Action & Adventure, TV Dramas, TV Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": ", South Korea",
+  "country": ", South Korea",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico, Netherlands",
+  "country": "Mexico, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland",
+  "country": "Ireland",
+  "top_genres": [
+    {
+      "genre": "TV Comedies, TV Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, China, United States, India",
+  "country": "United Kingdom, China, United States, India",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France",
+  "country": "France",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 11
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 10
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 8
+    }
+  ]
+},
+{
+  "_id": "Germany, United States, United Kingdom, Canada",
+  "country": "Germany, United States, United Kingdom, Canada",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Japan, Canada",
+  "country": "United States, Japan, Canada",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Comedies",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Hong Kong, China",
+  "country": "Hong Kong, China",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 8
+    },
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 4
+    },
+    {
+      "genre": "Action & Adventure, Comedies, International Movies",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "United Arab Emirates",
+  "country": "United Arab Emirates",
+  "top_genres": [
+    {
+      "genre": "Comedies, Horror Movies, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Comedies, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Australia",
+  "country": "United States, United Kingdom, Australia",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Kids' TV",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, Germany, South Africa",
+  "country": "Canada, Germany, South Africa",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, Canada, United States",
+  "country": "Germany, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Argentina",
+  "country": "United States, Argentina",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, Independent Movies",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Germany, Spain",
+  "country": "United Kingdom, France, Germany, Spain",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Crime TV Shows, International TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Singapore",
+  "country": "United States, Singapore",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, France, United Kingdom, United States",
+  "country": "Spain, France, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Philippines",
+  "country": "United States, Philippines",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, LGBTQ Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, India",
+  "country": "Italy, India",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Germany, France",
+  "country": "India, Germany, France",
+  "top_genres": [
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Croatia",
+  "country": "Croatia",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Indonesia, Netherlands",
+  "country": "Indonesia, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, France",
+  "country": "India, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 3
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Indonesia, South Korea, Singapore",
+  "country": "Indonesia, South Korea, Singapore",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, Italy",
+  "country": "Germany, Italy",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Switzerland",
+  "country": "India, Switzerland",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Taiwan, China",
+  "country": "Taiwan, China",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Reality TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, France, Germany, United States",
+  "country": "United Kingdom, France, Germany, United States",
+  "top_genres": [
+    {
+      "genre": "Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Nicaragua",
+  "country": "United States, Nicaragua",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Nigeria",
+  "country": "Nigeria",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 19
+    },
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 11
+    },
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 11
+    }
+  ]
+},
+{
+  "_id": "United States, Australia",
+  "country": "United States, Australia",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 3
+    },
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 2
+    },
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, United Kingdom, United States",
+  "country": "Ireland, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "TV Dramas, TV Horror, TV Mysteries",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, New Zealand",
+  "country": "United Kingdom, New Zealand",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, Canada",
+  "country": "India, Canada",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Comedies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, United States",
+  "country": "Denmark, United States",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas, TV Mysteries",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries",
+      "count": 1
+    },
+    {
+      "genre": "International TV Shows, TV Mysteries, TV Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Bangladesh",
+  "country": "Bangladesh",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Comedies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Philippines, Singapore, Indonesia",
+  "country": "Philippines, Singapore, Indonesia",
+  "top_genres": [
+    {
+      "genre": "Anime Series, Crime TV Shows, TV Horror",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Colombia, United States",
+  "country": "Colombia, United States",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Romantic TV Shows, Spanish-Language TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Germany",
+  "country": "United States, United Kingdom, Germany",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Dramas, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Canada",
+  "country": "United Kingdom, Canada",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Belgium, Canada, France",
+  "country": "United States, Belgium, Canada, France",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Malta, France, United Kingdom",
+  "country": "United States, Malta, France, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, United Kingdom, Sweden",
+  "country": "Denmark, United Kingdom, Sweden",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Greece",
+  "country": "United States, Greece",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Austria, United States",
+  "country": "Austria, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Chile, United States, France",
+  "country": "Chile, United States, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Egypt, Austria, United States",
+  "country": "Egypt, Austria, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Australia, South Africa, United Kingdom",
+  "country": "United States, Australia, South Africa, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Hong Kong, Canada, United States",
+  "country": "Hong Kong, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, Hong Kong",
+  "country": "China, Hong Kong",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 5
+    },
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 4
+    },
+    {
+      "genre": "Action & Adventure, International Movies, Sci-Fi & Fantasy",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "Georgia",
+  "country": "Georgia",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Brazil, France",
+  "country": "Brazil, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "France, Germany, Czech Republic, Belgium",
+  "country": "France, Germany, Czech Republic, Belgium",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Guatemala",
+  "country": "Guatemala",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, Canada, United States, United Kingdom",
+  "country": "Ireland, Canada, United States, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Lebanon, Syria",
+  "country": "Lebanon, Syria",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Lebanon, United Arab Emirates, France, Switzerland, Germany",
+  "country": "Lebanon, United Arab Emirates, France, Switzerland, Germany",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom",
+  "country": "United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 40
+    },
+    {
+      "genre": "British TV Shows, Docuseries, International TV Shows",
+      "count": 27
+    },
+    {
+      "genre": "British TV Shows, International TV Shows, Reality TV",
+      "count": 23
+    }
+  ]
+},
+{
+  "_id": "Canada, United States, Denmark",
+  "country": "Canada, United States, Denmark",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Russia, United States",
+  "country": "Russia, United States",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, New Zealand",
+  "country": "Australia, New Zealand",
+  "top_genres": [
+    {
+      "genre": "Kids' TV, TV Action & Adventure, TV Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Denmark, France, Poland",
+  "country": "Denmark, France, Poland",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Thailand, China, United States",
+  "country": "Thailand, China, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Germany, United States",
+  "country": "United Kingdom, Germany, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Comedies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Soviet Union, India",
+  "country": "Soviet Union, India",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Canada, United States",
+  "country": "United Kingdom, Canada, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 2
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Spain, United States",
+  "country": "United Kingdom, Spain, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Bulgaria",
+  "country": "United States, Bulgaria",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 2
+    },
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    },
+    {
+      "genre": "Action & Adventure, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Canada, France",
+  "country": "United States, Canada, France",
+  "top_genres": [
+    {
+      "genre": "Independent Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, China, United States",
+  "country": "United Kingdom, China, United States",
+  "top_genres": [
+    {
+      "genre": "Sci-Fi & Fantasy, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom",
+  "country": "United States, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 4
+    },
+    {
+      "genre": "Action & Adventure",
+      "count": 3
+    },
+    {
+      "genre": "Comedies, Romantic Movies",
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": "United States, United Kingdom, Canada",
+  "country": "United States, United Kingdom, Canada",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    },
+    {
+      "genre": "Children & Family Movies, Comedies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, Jordan, Netherlands",
+  "country": "Germany, Jordan, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Indonesia, United Kingdom",
+  "country": "Indonesia, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, United Kingdom, United Arab Emirates, Canada",
+  "country": "Australia, United Kingdom, United Arab Emirates, Canada",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Jordan, Qatar, Iran",
+  "country": "United Kingdom, Jordan, Qatar, Iran",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, India, United Kingdom",
+  "country": "United States, India, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, India",
+  "country": "Canada, India",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Switzerland",
+  "country": "Spain, Switzerland",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Finland, Germany, United States, Australia, Japan, France, Ireland",
+  "country": "United Kingdom, Finland, Germany, United States, Australia, Japan, France, Ireland",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Sweden, United Kingdom, Finland",
+  "country": "Sweden, United Kingdom, Finland",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Israel, Germany",
+  "country": "Israel, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Lebanon, France",
+  "country": "Lebanon, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "China, United Kingdom",
+  "country": "China, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, Kids' TV",
+      "count": 2
+    },
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Canada, China, Cambodia",
+  "country": "France, Canada, China, Cambodia",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, International Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Chile, Argentina",
+  "country": "Chile, Argentina",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Chile, France",
+  "country": "Chile, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Germany",
+  "country": "United States, Germany",
+  "top_genres": [
+    {
+      "genre": "Dramas, Thrillers",
+      "count": 2
+    },
+    {
+      "genre": "Action & Adventure",
+      "count": 2
+    },
+    {
+      "genre": "Comedies, Romantic Movies",
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": "Netherlands, Belgium",
+  "country": "Netherlands, Belgium",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies, LGBTQ Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies, LGBTQ Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Netherlands, United States",
+  "country": "Netherlands, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Australia, France",
+  "country": "Australia, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, United States",
+  "country": "France, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 2
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Action & Adventure",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Malaysia",
+  "country": "Malaysia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 4
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 3
+    },
+    {
+      "genre": "Action & Adventure, Dramas, International Movies",
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": "Italy, South Africa, West Germany, Australia, United States",
+  "country": "Italy, South Africa, West Germany, Australia, United States",
+  "top_genres": [
+    {
+      "genre": "TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway, Germany, Sweden",
+  "country": "Norway, Germany, Sweden",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Serbia, South Korea, Slovenia",
+  "country": "Serbia, South Korea, Slovenia",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Independent Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Sweden, Netherlands",
+  "country": "Sweden, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies, Music & Musicals",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "France, Israel, Germany, United States, United Kingdom",
+  "country": "France, Israel, Germany, United States, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ukraine",
+  "country": "Ukraine",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    },
+    {
+      "genre": "International TV Shows, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Peru, Germany, Norway",
+  "country": "Peru, Germany, Norway",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, Canada, United Kingdom, United States",
+  "country": "Ireland, Canada, United Kingdom, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia",
+  "country": "United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, South Africa, Australia, United States",
+  "country": "United Kingdom, South Africa, Australia, United States",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, International TV Shows, Romantic TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, Chile, Peru",
+  "country": "Argentina, Chile, Peru",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, United States",
+  "country": "Ireland, United States",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, United States, Canada",
+  "country": "United Kingdom, United States, Canada",
+  "top_genres": [
+    {
+      "genre": "Dramas, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Chile, Israel",
+  "country": "United States, Chile, Israel",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada",
+  "country": "Canada",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 16
+    },
+    {
+      "genre": "Children & Family Movies, Comedies",
+      "count": 14
+    },
+    {
+      "genre": "Kids' TV",
+      "count": 8
+    }
+  ]
+},
+{
+  "_id": "Russia, Poland, Serbia",
+  "country": "Russia, Poland, Serbia",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Malaysia, Singapore, Hong Kong",
+  "country": "Malaysia, Singapore, Hong Kong",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Korean TV Shows, Romantic TV Shows",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Argentina, Chile",
+  "country": "Argentina, Chile",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Somalia, Kenya, Sudan, South Africa, United States",
+  "country": "Somalia, Kenya, Sudan, South Africa, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, France, United States",
+  "country": "Canada, France, United States",
+  "top_genres": [
+    {
+      "genre": "Horror Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "India, United Kingdom, France, Qatar",
+  "country": "India, United Kingdom, France, Qatar",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Hong Kong",
+  "country": "United Kingdom, Hong Kong",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Egypt",
+  "country": "Egypt",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies",
+      "count": 29
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 12
+    },
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 10
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Ireland, United States",
+  "country": "United Kingdom, Ireland, United States",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, International TV Shows, TV Action & Adventure",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States,",
+  "country": "United States,",
+  "top_genres": [
+    {
+      "genre": "Documentaries",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, Greece, United Kingdom",
+  "country": "United States, Greece, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Italy, Israel, Peru, United States",
+  "country": "United Kingdom, Italy, Israel, Peru, United States",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "South Korea",
+  "country": "South Korea",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, Korean TV Shows, Romantic TV Shows",
+      "count": 63
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, Korean TV Shows",
+      "count": 20
+    },
+    {
+      "genre": "International TV Shows, Korean TV Shows, TV Dramas",
+      "count": 18
+    }
+  ]
+},
+{
+  "_id": "South Korea, Czech Republic",
+  "country": "South Korea, Czech Republic",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Cult Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Norway, United States",
+  "country": "Norway, United States",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, TV Comedies, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, Czech Republic",
+  "country": "Germany, Czech Republic",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    },
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Kenya",
+  "country": "United Kingdom, Kenya",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, Canada, Lebanon, Qatar",
+  "country": "United States, France, Canada, Lebanon, Qatar",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies, Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Spain, Belgium",
+  "country": "United Kingdom, Spain, Belgium",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Netherlands, Denmark, South Africa",
+  "country": "Netherlands, Denmark, South Africa",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Germany, France, United States, Canada, United Kingdom",
+  "country": "Germany, France, United States, Canada, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "Action & Adventure, Horror Movies, Sci-Fi & Fantasy",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, United Kingdom, Netherlands",
+  "country": "Canada, United Kingdom, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico",
+  "country": "Mexico",
+  "top_genres": [
+    {
+      "genre": "Stand-Up Comedy",
+      "count": 18
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, Spanish-Language TV Shows",
+      "count": 17
+    },
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 8
+    }
+  ]
+},
+{
+  "_id": "Israel",
+  "country": "Israel",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Action & Adventure, TV Dramas",
+      "count": 2
+    },
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Action & Adventure",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, France",
+  "country": "Italy, France",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "Dramas, International Movies, Thrillers",
+      "count": 1
+    },
+    {
+      "genre": "Classic Movies, Comedies, Independent Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Ireland, United Kingdom, Greece, France, Netherlands",
+  "country": "Ireland, United Kingdom, Greece, France, Netherlands",
+  "top_genres": [
+    {
+      "genre": "Comedies, International Movies, Romantic Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Italy, United Kingdom",
+  "country": "Italy, United Kingdom",
+  "top_genres": [
+    {
+      "genre": "British TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Switzerland, Vatican City, Italy, Germany, France",
+  "country": "Switzerland, Vatican City, Italy, Germany, France",
+  "top_genres": [
+    {
+      "genre": "Documentaries, Faith & Spirituality, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Sweden",
+  "country": "Sweden",
+  "top_genres": [
+    {
+      "genre": "Comedies, Dramas, International Movies",
+      "count": 2
+    },
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 2
+    },
+    {
+      "genre": "International TV Shows, Romantic TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United States, France, Canada, Spain",
+  "country": "United States, France, Canada, Spain",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Russia, Spain",
+  "country": "Russia, Spain",
+  "top_genres": [
+    {
+      "genre": "Children & Family Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Uruguay",
+  "country": "Uruguay",
+  "top_genres": [
+    {
+      "genre": "Documentaries, International Movies",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies, Music & Musicals",
+      "count": 1
+    },
+    {
+      "genre": "Documentaries, International Movies, Sports Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Canada, France",
+  "country": "Canada, France",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, Kids' TV, TV Comedies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Mexico, France",
+  "country": "Mexico, France",
+  "top_genres": [
+    {
+      "genre": "Dramas, Independent Movies, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Australia, France, United States",
+  "country": "United Kingdom, Australia, France, United States",
+  "top_genres": [
+    {
+      "genre": "Thrillers",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Austria, Germany",
+  "country": "Austria, Germany",
+  "top_genres": [
+    {
+      "genre": "Crime TV Shows, International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Spain, Thailand, United States",
+  "country": "Spain, Thailand, United States",
+  "top_genres": [
+    {
+      "genre": "Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "Cameroon",
+  "country": "Cameroon",
+  "top_genres": [
+    {
+      "genre": "Dramas, International Movies",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Germany, United States, France",
+  "country": "United Kingdom, Germany, United States, France",
+  "top_genres": [
+    {
+      "genre": "International TV Shows, TV Dramas",
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": "United Kingdom, Thailand",
+  "country": "United Kingdom, Thailand",
+  "top_genres": [
+    {
+      "genre": "Horror Movies, International Movies",
+      "count": 1
+    }
+  ]
+}]

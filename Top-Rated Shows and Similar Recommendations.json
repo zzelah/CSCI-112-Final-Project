@@ -1,0 +1,741 @@
+[{
+  "_id": {
+    "$oid": "674abcd6440cad554bec9bd7"
+  },
+  "show_id": "s28",
+  "type": "Movie",
+  "title": "Grown Ups",
+  "country": "United States",
+  "rating": "PG-13",
+  "numeric_duration": 103,
+  "similar_shows": [
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bbc"
+      },
+      "show_id": "s1",
+      "type": "Movie",
+      "title": "Dick Johnson Is Dead",
+      "director": "Kirsten Johnson",
+      "country": "United States",
+      "date_added": "September 25, 2021",
+      "release_year": 2020,
+      "rating": "PG-13",
+      "duration": "90 min",
+      "listed_in": "Documentaries",
+      "description": "As her father nears the end of his life, filmmaker Kirsten Johnson stages his death in inventive and comical ways to help them both face the inevitable."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bc5"
+      },
+      "show_id": "s10",
+      "type": "Movie",
+      "title": "The Starling",
+      "director": "Theodore Melfi",
+      "cast": "Melissa McCarthy, Chris O'Dowd, Kevin Kline, Timothy Olyphant, Daveed Diggs, Skyler Gisondo, Laura Harrier, Rosalind Chao, Kimberly Quinn, Loretta Devine, Ravi Kapoor",
+      "country": "United States",
+      "date_added": "September 24, 2021",
+      "release_year": 2021,
+      "rating": "PG-13",
+      "duration": "104 min",
+      "listed_in": "Comedies, Dramas",
+      "description": "A woman adjusting to life after a loss contends with a feisty bird that's taken over her garden — and a husband who's struggling to find a way forward."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bd8"
+      },
+      "show_id": "s29",
+      "type": "Movie",
+      "title": "Dark Skies",
+      "director": "Scott Stewart",
+      "cast": "Keri Russell, Josh Hamilton, J.K. Simmons, Dakota Goyo, Kadan Rockett, L.J. Benet, Rich Hutchman, Myndy Crist, Annie Thurman, Jake Brennan",
+      "country": "United States",
+      "date_added": "September 19, 2021",
+      "release_year": 2013,
+      "rating": "PG-13",
+      "duration": "97 min",
+      "listed_in": "Horror Movies, Sci-Fi & Fantasy",
+      "description": "A family’s idyllic suburban life shatters when an alien force invades their home, and as they struggle to convince others of the deadly threat."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be5"
+      },
+      "show_id": "s42",
+      "type": "Movie",
+      "title": "Jaws",
+      "director": "Steven Spielberg",
+      "cast": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton, Carl Gottlieb, Jeffrey Kramer, Susan Backlinie, Jonathan Filley, Ted Grossman",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1975,
+      "rating": "PG",
+      "duration": "124 min",
+      "listed_in": "Action & Adventure, Classic Movies, Dramas",
+      "description": "When an insatiable great white shark terrorizes Amity Island, a police chief, an oceanographer and a grizzled shark hunter seek to destroy the beast."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be6"
+      },
+      "show_id": "s43",
+      "type": "Movie",
+      "title": "Jaws 2",
+      "director": "Jeannot Szwarc",
+      "cast": "Roy Scheider, Lorraine Gary, Murray Hamilton, Joseph Mascolo, Jeffrey Kramer, Collin Wilcox Paxton, Ann Dusenberry, Mark Gruner, Barry Coe, Susan French",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1978,
+      "rating": "PG",
+      "duration": "116 min",
+      "listed_in": "Dramas, Horror Movies, Thrillers",
+      "description": "Four years after the last deadly shark attacks, police chief Martin Brody fights to protect Amity Island from another killer great white."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be7"
+      },
+      "show_id": "s44",
+      "type": "Movie",
+      "title": "Jaws 3",
+      "director": "Joe Alves",
+      "cast": "Dennis Quaid, Bess Armstrong, Simon MacCorkindale, Louis Gossett Jr., John Putch, Lea Thompson, P.H. Moriarty, Dan Blasko, Liz Morris, Lisa Maurer",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1983,
+      "rating": "PG",
+      "duration": "98 min",
+      "listed_in": "Action & Adventure, Horror Movies, Thrillers",
+      "description": "After the staff of a marine theme park try to capture a young great white shark, they discover its mother has invaded the enclosure and is out for blood."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be8"
+      },
+      "show_id": "s45",
+      "type": "Movie",
+      "title": "Jaws: The Revenge",
+      "director": "Joseph Sargent",
+      "cast": "Lorraine Gary, Lance Guest, Mario Van Peebles, Karen Young, Michael Caine, Judith Barsi, Mitchell Anderson, Lynn Whitfield",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1987,
+      "rating": "PG-13",
+      "duration": "91 min",
+      "listed_in": "Action & Adventure, Horror Movies, Thrillers",
+      "description": "After another deadly shark attack, Ellen Brody has had enough of Amity Island and moves to the Caribbean – but a great white shark follows her there."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bec"
+      },
+      "show_id": "s49",
+      "type": "Movie",
+      "title": "Training Day",
+      "director": "Antoine Fuqua",
+      "cast": "Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger, Harris Yulin, Raymond J. Barry, Cliff Curtis, Dr. Dre, Snoop Dogg, Macy Gray, Eva Mendes",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 2001,
+      "rating": "R",
+      "duration": "122 min",
+      "listed_in": "Dramas, Thrillers",
+      "description": "A rookie cop with one day to prove himself to a veteran LAPD narcotics officer receives a crash course in his mentor's questionable brand of justice."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9c0d"
+      },
+      "show_id": "s82",
+      "type": "Movie",
+      "title": "Kate",
+      "director": "Cedric Nicolas-Troyan",
+      "cast": "Mary Elizabeth Winstead, Jun Kunimura, Woody Harrelson, Tadanobu Asano, Miyavi, Michiel Huisman, Miku Martineau",
+      "country": "United States",
+      "date_added": "September 10, 2021",
+      "release_year": 2021,
+      "rating": "R",
+      "duration": "106 min",
+      "listed_in": "Action & Adventure",
+      "description": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9c1c"
+      },
+      "show_id": "s97",
+      "type": "Movie",
+      "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+      "director": "Stephen Kijak",
+      "cast": "Ronnie Van Zandt, Gary Rossington, Allen Collins, Leon Wilkeson, Bob Burns, Billy Powell, Ed King, Artimus Pyle, Steve Gaines, Johnny Van Zant",
+      "country": "United States",
+      "date_added": "September 7, 2021",
+      "release_year": 2018,
+      "rating": "TV-MA",
+      "duration": "97 min",
+      "listed_in": "Documentaries, Music & Musicals",
+      "description": "Using interviews and archival footage, this documentary charts the story of the legendary Southern rockers with a focus on front man Ronnie Van Zant."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674abcd6440cad554bec9bd8"
+  },
+  "show_id": "s29",
+  "type": "Movie",
+  "title": "Dark Skies",
+  "country": "United States",
+  "rating": "PG-13",
+  "numeric_duration": 97,
+  "similar_shows": [
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bbc"
+      },
+      "show_id": "s1",
+      "type": "Movie",
+      "title": "Dick Johnson Is Dead",
+      "director": "Kirsten Johnson",
+      "country": "United States",
+      "date_added": "September 25, 2021",
+      "release_year": 2020,
+      "rating": "PG-13",
+      "duration": "90 min",
+      "listed_in": "Documentaries",
+      "description": "As her father nears the end of his life, filmmaker Kirsten Johnson stages his death in inventive and comical ways to help them both face the inevitable."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bc5"
+      },
+      "show_id": "s10",
+      "type": "Movie",
+      "title": "The Starling",
+      "director": "Theodore Melfi",
+      "cast": "Melissa McCarthy, Chris O'Dowd, Kevin Kline, Timothy Olyphant, Daveed Diggs, Skyler Gisondo, Laura Harrier, Rosalind Chao, Kimberly Quinn, Loretta Devine, Ravi Kapoor",
+      "country": "United States",
+      "date_added": "September 24, 2021",
+      "release_year": 2021,
+      "rating": "PG-13",
+      "duration": "104 min",
+      "listed_in": "Comedies, Dramas",
+      "description": "A woman adjusting to life after a loss contends with a feisty bird that's taken over her garden — and a husband who's struggling to find a way forward."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bd7"
+      },
+      "show_id": "s28",
+      "type": "Movie",
+      "title": "Grown Ups",
+      "director": "Dennis Dugan",
+      "cast": "Adam Sandler, Kevin James, Chris Rock, David Spade, Rob Schneider, Salma Hayek, Maria Bello, Maya Rudolph, Colin Quinn, Tim Meadows, Joyce Van Patten",
+      "country": "United States",
+      "date_added": "September 20, 2021",
+      "release_year": 2010,
+      "rating": "PG-13",
+      "duration": "103 min",
+      "listed_in": "Comedies",
+      "description": "Mourning the loss of their beloved junior high basketball coach, five middle-aged pals reunite at a lake house and rediscover the joys of being a kid."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be5"
+      },
+      "show_id": "s42",
+      "type": "Movie",
+      "title": "Jaws",
+      "director": "Steven Spielberg",
+      "cast": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton, Carl Gottlieb, Jeffrey Kramer, Susan Backlinie, Jonathan Filley, Ted Grossman",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1975,
+      "rating": "PG",
+      "duration": "124 min",
+      "listed_in": "Action & Adventure, Classic Movies, Dramas",
+      "description": "When an insatiable great white shark terrorizes Amity Island, a police chief, an oceanographer and a grizzled shark hunter seek to destroy the beast."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be6"
+      },
+      "show_id": "s43",
+      "type": "Movie",
+      "title": "Jaws 2",
+      "director": "Jeannot Szwarc",
+      "cast": "Roy Scheider, Lorraine Gary, Murray Hamilton, Joseph Mascolo, Jeffrey Kramer, Collin Wilcox Paxton, Ann Dusenberry, Mark Gruner, Barry Coe, Susan French",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1978,
+      "rating": "PG",
+      "duration": "116 min",
+      "listed_in": "Dramas, Horror Movies, Thrillers",
+      "description": "Four years after the last deadly shark attacks, police chief Martin Brody fights to protect Amity Island from another killer great white."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be7"
+      },
+      "show_id": "s44",
+      "type": "Movie",
+      "title": "Jaws 3",
+      "director": "Joe Alves",
+      "cast": "Dennis Quaid, Bess Armstrong, Simon MacCorkindale, Louis Gossett Jr., John Putch, Lea Thompson, P.H. Moriarty, Dan Blasko, Liz Morris, Lisa Maurer",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1983,
+      "rating": "PG",
+      "duration": "98 min",
+      "listed_in": "Action & Adventure, Horror Movies, Thrillers",
+      "description": "After the staff of a marine theme park try to capture a young great white shark, they discover its mother has invaded the enclosure and is out for blood."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be8"
+      },
+      "show_id": "s45",
+      "type": "Movie",
+      "title": "Jaws: The Revenge",
+      "director": "Joseph Sargent",
+      "cast": "Lorraine Gary, Lance Guest, Mario Van Peebles, Karen Young, Michael Caine, Judith Barsi, Mitchell Anderson, Lynn Whitfield",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1987,
+      "rating": "PG-13",
+      "duration": "91 min",
+      "listed_in": "Action & Adventure, Horror Movies, Thrillers",
+      "description": "After another deadly shark attack, Ellen Brody has had enough of Amity Island and moves to the Caribbean – but a great white shark follows her there."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bec"
+      },
+      "show_id": "s49",
+      "type": "Movie",
+      "title": "Training Day",
+      "director": "Antoine Fuqua",
+      "cast": "Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger, Harris Yulin, Raymond J. Barry, Cliff Curtis, Dr. Dre, Snoop Dogg, Macy Gray, Eva Mendes",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 2001,
+      "rating": "R",
+      "duration": "122 min",
+      "listed_in": "Dramas, Thrillers",
+      "description": "A rookie cop with one day to prove himself to a veteran LAPD narcotics officer receives a crash course in his mentor's questionable brand of justice."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9c0d"
+      },
+      "show_id": "s82",
+      "type": "Movie",
+      "title": "Kate",
+      "director": "Cedric Nicolas-Troyan",
+      "cast": "Mary Elizabeth Winstead, Jun Kunimura, Woody Harrelson, Tadanobu Asano, Miyavi, Michiel Huisman, Miku Martineau",
+      "country": "United States",
+      "date_added": "September 10, 2021",
+      "release_year": 2021,
+      "rating": "R",
+      "duration": "106 min",
+      "listed_in": "Action & Adventure",
+      "description": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9c1c"
+      },
+      "show_id": "s97",
+      "type": "Movie",
+      "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+      "director": "Stephen Kijak",
+      "cast": "Ronnie Van Zandt, Gary Rossington, Allen Collins, Leon Wilkeson, Bob Burns, Billy Powell, Ed King, Artimus Pyle, Steve Gaines, Johnny Van Zant",
+      "country": "United States",
+      "date_added": "September 7, 2021",
+      "release_year": 2018,
+      "rating": "TV-MA",
+      "duration": "97 min",
+      "listed_in": "Documentaries, Music & Musicals",
+      "description": "Using interviews and archival footage, this documentary charts the story of the legendary Southern rockers with a focus on front man Ronnie Van Zant."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674abcd6440cad554bec9bd9"
+  },
+  "show_id": "s30",
+  "type": "Movie",
+  "title": "Paranoia",
+  "country": "United States, India, France",
+  "rating": "PG-13",
+  "numeric_duration": 106,
+  "similar_shows": []
+},
+{
+  "_id": {
+    "$oid": "674abcd6440cad554bec9bbc"
+  },
+  "show_id": "s1",
+  "type": "Movie",
+  "title": "Dick Johnson Is Dead",
+  "country": "United States",
+  "rating": "PG-13",
+  "numeric_duration": 90,
+  "similar_shows": [
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bc5"
+      },
+      "show_id": "s10",
+      "type": "Movie",
+      "title": "The Starling",
+      "director": "Theodore Melfi",
+      "cast": "Melissa McCarthy, Chris O'Dowd, Kevin Kline, Timothy Olyphant, Daveed Diggs, Skyler Gisondo, Laura Harrier, Rosalind Chao, Kimberly Quinn, Loretta Devine, Ravi Kapoor",
+      "country": "United States",
+      "date_added": "September 24, 2021",
+      "release_year": 2021,
+      "rating": "PG-13",
+      "duration": "104 min",
+      "listed_in": "Comedies, Dramas",
+      "description": "A woman adjusting to life after a loss contends with a feisty bird that's taken over her garden — and a husband who's struggling to find a way forward."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bd7"
+      },
+      "show_id": "s28",
+      "type": "Movie",
+      "title": "Grown Ups",
+      "director": "Dennis Dugan",
+      "cast": "Adam Sandler, Kevin James, Chris Rock, David Spade, Rob Schneider, Salma Hayek, Maria Bello, Maya Rudolph, Colin Quinn, Tim Meadows, Joyce Van Patten",
+      "country": "United States",
+      "date_added": "September 20, 2021",
+      "release_year": 2010,
+      "rating": "PG-13",
+      "duration": "103 min",
+      "listed_in": "Comedies",
+      "description": "Mourning the loss of their beloved junior high basketball coach, five middle-aged pals reunite at a lake house and rediscover the joys of being a kid."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bd8"
+      },
+      "show_id": "s29",
+      "type": "Movie",
+      "title": "Dark Skies",
+      "director": "Scott Stewart",
+      "cast": "Keri Russell, Josh Hamilton, J.K. Simmons, Dakota Goyo, Kadan Rockett, L.J. Benet, Rich Hutchman, Myndy Crist, Annie Thurman, Jake Brennan",
+      "country": "United States",
+      "date_added": "September 19, 2021",
+      "release_year": 2013,
+      "rating": "PG-13",
+      "duration": "97 min",
+      "listed_in": "Horror Movies, Sci-Fi & Fantasy",
+      "description": "A family’s idyllic suburban life shatters when an alien force invades their home, and as they struggle to convince others of the deadly threat."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be5"
+      },
+      "show_id": "s42",
+      "type": "Movie",
+      "title": "Jaws",
+      "director": "Steven Spielberg",
+      "cast": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton, Carl Gottlieb, Jeffrey Kramer, Susan Backlinie, Jonathan Filley, Ted Grossman",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1975,
+      "rating": "PG",
+      "duration": "124 min",
+      "listed_in": "Action & Adventure, Classic Movies, Dramas",
+      "description": "When an insatiable great white shark terrorizes Amity Island, a police chief, an oceanographer and a grizzled shark hunter seek to destroy the beast."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be6"
+      },
+      "show_id": "s43",
+      "type": "Movie",
+      "title": "Jaws 2",
+      "director": "Jeannot Szwarc",
+      "cast": "Roy Scheider, Lorraine Gary, Murray Hamilton, Joseph Mascolo, Jeffrey Kramer, Collin Wilcox Paxton, Ann Dusenberry, Mark Gruner, Barry Coe, Susan French",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1978,
+      "rating": "PG",
+      "duration": "116 min",
+      "listed_in": "Dramas, Horror Movies, Thrillers",
+      "description": "Four years after the last deadly shark attacks, police chief Martin Brody fights to protect Amity Island from another killer great white."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be7"
+      },
+      "show_id": "s44",
+      "type": "Movie",
+      "title": "Jaws 3",
+      "director": "Joe Alves",
+      "cast": "Dennis Quaid, Bess Armstrong, Simon MacCorkindale, Louis Gossett Jr., John Putch, Lea Thompson, P.H. Moriarty, Dan Blasko, Liz Morris, Lisa Maurer",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1983,
+      "rating": "PG",
+      "duration": "98 min",
+      "listed_in": "Action & Adventure, Horror Movies, Thrillers",
+      "description": "After the staff of a marine theme park try to capture a young great white shark, they discover its mother has invaded the enclosure and is out for blood."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be8"
+      },
+      "show_id": "s45",
+      "type": "Movie",
+      "title": "Jaws: The Revenge",
+      "director": "Joseph Sargent",
+      "cast": "Lorraine Gary, Lance Guest, Mario Van Peebles, Karen Young, Michael Caine, Judith Barsi, Mitchell Anderson, Lynn Whitfield",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1987,
+      "rating": "PG-13",
+      "duration": "91 min",
+      "listed_in": "Action & Adventure, Horror Movies, Thrillers",
+      "description": "After another deadly shark attack, Ellen Brody has had enough of Amity Island and moves to the Caribbean – but a great white shark follows her there."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bec"
+      },
+      "show_id": "s49",
+      "type": "Movie",
+      "title": "Training Day",
+      "director": "Antoine Fuqua",
+      "cast": "Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger, Harris Yulin, Raymond J. Barry, Cliff Curtis, Dr. Dre, Snoop Dogg, Macy Gray, Eva Mendes",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 2001,
+      "rating": "R",
+      "duration": "122 min",
+      "listed_in": "Dramas, Thrillers",
+      "description": "A rookie cop with one day to prove himself to a veteran LAPD narcotics officer receives a crash course in his mentor's questionable brand of justice."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9c0d"
+      },
+      "show_id": "s82",
+      "type": "Movie",
+      "title": "Kate",
+      "director": "Cedric Nicolas-Troyan",
+      "cast": "Mary Elizabeth Winstead, Jun Kunimura, Woody Harrelson, Tadanobu Asano, Miyavi, Michiel Huisman, Miku Martineau",
+      "country": "United States",
+      "date_added": "September 10, 2021",
+      "release_year": 2021,
+      "rating": "R",
+      "duration": "106 min",
+      "listed_in": "Action & Adventure",
+      "description": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9c1c"
+      },
+      "show_id": "s97",
+      "type": "Movie",
+      "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+      "director": "Stephen Kijak",
+      "cast": "Ronnie Van Zandt, Gary Rossington, Allen Collins, Leon Wilkeson, Bob Burns, Billy Powell, Ed King, Artimus Pyle, Steve Gaines, Johnny Van Zant",
+      "country": "United States",
+      "date_added": "September 7, 2021",
+      "release_year": 2018,
+      "rating": "TV-MA",
+      "duration": "97 min",
+      "listed_in": "Documentaries, Music & Musicals",
+      "description": "Using interviews and archival footage, this documentary charts the story of the legendary Southern rockers with a focus on front man Ronnie Van Zant."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674abcd6440cad554bec9bc5"
+  },
+  "show_id": "s10",
+  "type": "Movie",
+  "title": "The Starling",
+  "country": "United States",
+  "rating": "PG-13",
+  "numeric_duration": 104,
+  "similar_shows": [
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bbc"
+      },
+      "show_id": "s1",
+      "type": "Movie",
+      "title": "Dick Johnson Is Dead",
+      "director": "Kirsten Johnson",
+      "country": "United States",
+      "date_added": "September 25, 2021",
+      "release_year": 2020,
+      "rating": "PG-13",
+      "duration": "90 min",
+      "listed_in": "Documentaries",
+      "description": "As her father nears the end of his life, filmmaker Kirsten Johnson stages his death in inventive and comical ways to help them both face the inevitable."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bd7"
+      },
+      "show_id": "s28",
+      "type": "Movie",
+      "title": "Grown Ups",
+      "director": "Dennis Dugan",
+      "cast": "Adam Sandler, Kevin James, Chris Rock, David Spade, Rob Schneider, Salma Hayek, Maria Bello, Maya Rudolph, Colin Quinn, Tim Meadows, Joyce Van Patten",
+      "country": "United States",
+      "date_added": "September 20, 2021",
+      "release_year": 2010,
+      "rating": "PG-13",
+      "duration": "103 min",
+      "listed_in": "Comedies",
+      "description": "Mourning the loss of their beloved junior high basketball coach, five middle-aged pals reunite at a lake house and rediscover the joys of being a kid."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bd8"
+      },
+      "show_id": "s29",
+      "type": "Movie",
+      "title": "Dark Skies",
+      "director": "Scott Stewart",
+      "cast": "Keri Russell, Josh Hamilton, J.K. Simmons, Dakota Goyo, Kadan Rockett, L.J. Benet, Rich Hutchman, Myndy Crist, Annie Thurman, Jake Brennan",
+      "country": "United States",
+      "date_added": "September 19, 2021",
+      "release_year": 2013,
+      "rating": "PG-13",
+      "duration": "97 min",
+      "listed_in": "Horror Movies, Sci-Fi & Fantasy",
+      "description": "A family’s idyllic suburban life shatters when an alien force invades their home, and as they struggle to convince others of the deadly threat."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be5"
+      },
+      "show_id": "s42",
+      "type": "Movie",
+      "title": "Jaws",
+      "director": "Steven Spielberg",
+      "cast": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton, Carl Gottlieb, Jeffrey Kramer, Susan Backlinie, Jonathan Filley, Ted Grossman",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1975,
+      "rating": "PG",
+      "duration": "124 min",
+      "listed_in": "Action & Adventure, Classic Movies, Dramas",
+      "description": "When an insatiable great white shark terrorizes Amity Island, a police chief, an oceanographer and a grizzled shark hunter seek to destroy the beast."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be6"
+      },
+      "show_id": "s43",
+      "type": "Movie",
+      "title": "Jaws 2",
+      "director": "Jeannot Szwarc",
+      "cast": "Roy Scheider, Lorraine Gary, Murray Hamilton, Joseph Mascolo, Jeffrey Kramer, Collin Wilcox Paxton, Ann Dusenberry, Mark Gruner, Barry Coe, Susan French",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1978,
+      "rating": "PG",
+      "duration": "116 min",
+      "listed_in": "Dramas, Horror Movies, Thrillers",
+      "description": "Four years after the last deadly shark attacks, police chief Martin Brody fights to protect Amity Island from another killer great white."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be7"
+      },
+      "show_id": "s44",
+      "type": "Movie",
+      "title": "Jaws 3",
+      "director": "Joe Alves",
+      "cast": "Dennis Quaid, Bess Armstrong, Simon MacCorkindale, Louis Gossett Jr., John Putch, Lea Thompson, P.H. Moriarty, Dan Blasko, Liz Morris, Lisa Maurer",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1983,
+      "rating": "PG",
+      "duration": "98 min",
+      "listed_in": "Action & Adventure, Horror Movies, Thrillers",
+      "description": "After the staff of a marine theme park try to capture a young great white shark, they discover its mother has invaded the enclosure and is out for blood."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9be8"
+      },
+      "show_id": "s45",
+      "type": "Movie",
+      "title": "Jaws: The Revenge",
+      "director": "Joseph Sargent",
+      "cast": "Lorraine Gary, Lance Guest, Mario Van Peebles, Karen Young, Michael Caine, Judith Barsi, Mitchell Anderson, Lynn Whitfield",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 1987,
+      "rating": "PG-13",
+      "duration": "91 min",
+      "listed_in": "Action & Adventure, Horror Movies, Thrillers",
+      "description": "After another deadly shark attack, Ellen Brody has had enough of Amity Island and moves to the Caribbean – but a great white shark follows her there."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9bec"
+      },
+      "show_id": "s49",
+      "type": "Movie",
+      "title": "Training Day",
+      "director": "Antoine Fuqua",
+      "cast": "Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger, Harris Yulin, Raymond J. Barry, Cliff Curtis, Dr. Dre, Snoop Dogg, Macy Gray, Eva Mendes",
+      "country": "United States",
+      "date_added": "September 16, 2021",
+      "release_year": 2001,
+      "rating": "R",
+      "duration": "122 min",
+      "listed_in": "Dramas, Thrillers",
+      "description": "A rookie cop with one day to prove himself to a veteran LAPD narcotics officer receives a crash course in his mentor's questionable brand of justice."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9c0d"
+      },
+      "show_id": "s82",
+      "type": "Movie",
+      "title": "Kate",
+      "director": "Cedric Nicolas-Troyan",
+      "cast": "Mary Elizabeth Winstead, Jun Kunimura, Woody Harrelson, Tadanobu Asano, Miyavi, Michiel Huisman, Miku Martineau",
+      "country": "United States",
+      "date_added": "September 10, 2021",
+      "release_year": 2021,
+      "rating": "R",
+      "duration": "106 min",
+      "listed_in": "Action & Adventure",
+      "description": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge."
+    },
+    {
+      "_id": {
+        "$oid": "674abcd6440cad554bec9c1c"
+      },
+      "show_id": "s97",
+      "type": "Movie",
+      "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+      "director": "Stephen Kijak",
+      "cast": "Ronnie Van Zandt, Gary Rossington, Allen Collins, Leon Wilkeson, Bob Burns, Billy Powell, Ed King, Artimus Pyle, Steve Gaines, Johnny Van Zant",
+      "country": "United States",
+      "date_added": "September 7, 2021",
+      "release_year": 2018,
+      "rating": "TV-MA",
+      "duration": "97 min",
+      "listed_in": "Documentaries, Music & Musicals",
+      "description": "Using interviews and archival footage, this documentary charts the story of the legendary Southern rockers with a focus on front man Ronnie Van Zant."
+    }
+  ]
+}]
