@@ -1,156 +1,9 @@
 [{
   "_id": {
-    "release_year": 2021,
-    "rating": "TV-Y7"
-  },
-  "count": 33
-},
-{
-  "_id": {
-    "release_year": 2021,
-    "rating": "TV-Y"
-  },
-  "count": 26
-},
-{
-  "_id": {
-    "release_year": 2021,
-    "rating": "TV-PG"
-  },
-  "count": 45
-},
-{
-  "_id": {
-    "release_year": 2021,
+    "release_year": 2018,
     "rating": "TV-MA"
   },
-  "count": 270
-},
-{
-  "_id": {
-    "release_year": 2021,
-    "rating": "TV-G"
-  },
-  "count": 21
-},
-{
-  "_id": {
-    "release_year": 2021,
-    "rating": "TV-14"
-  },
-  "count": 151
-},
-{
-  "_id": {
-    "release_year": 2021,
-    "rating": "R"
-  },
-  "count": 21
-},
-{
-  "_id": {
-    "release_year": 2021,
-    "rating": "PG-13"
-  },
-  "count": 14
-},
-{
-  "_id": {
-    "release_year": 2021,
-    "rating": "PG"
-  },
-  "count": 11
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "TV-Y7"
-  },
-  "count": 41
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "TV-Y"
-  },
-  "count": 59
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "TV-PG"
-  },
-  "count": 80
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "TV-MA"
-  },
-  "count": 469
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "TV-G"
-  },
-  "count": 45
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "TV-14"
-  },
-  "count": 174
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "R"
-  },
-  "count": 48
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "PG-13"
-  },
-  "count": 21
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "PG"
-  },
-  "count": 15
-},
-{
-  "_id": {
-    "release_year": 2020,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2019,
-    "rating": "TV-Y7"
-  },
-  "count": 36
-},
-{
-  "_id": {
-    "release_year": 2019,
-    "rating": "TV-Y"
-  },
-  "count": 50
-},
-{
-  "_id": {
-    "release_year": 2019,
-    "rating": "TV-PG"
-  },
-  "count": 98
+  "count": 549
 },
 {
   "_id": {
@@ -161,10 +14,38 @@
 },
 {
   "_id": {
-    "release_year": 2019,
-    "rating": "TV-G"
+    "release_year": 2020,
+    "rating": "TV-MA"
   },
-  "count": 23
+  "count": 469
+},
+{
+  "_id": {
+    "release_year": 2017,
+    "rating": "TV-MA"
+  },
+  "count": 451
+},
+{
+  "_id": {
+    "release_year": 2016,
+    "rating": "TV-MA"
+  },
+  "count": 341
+},
+{
+  "_id": {
+    "release_year": 2021,
+    "rating": "TV-MA"
+  },
+  "count": 270
+},
+{
+  "_id": {
+    "release_year": 2018,
+    "rating": "TV-14"
+  },
+  "count": 268
 },
 {
   "_id": {
@@ -175,45 +56,248 @@
 },
 {
   "_id": {
+    "release_year": 2017,
+    "rating": "TV-14"
+  },
+  "count": 251
+},
+{
+  "_id": {
+    "release_year": 2016,
+    "rating": "TV-14"
+  },
+  "count": 218
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "TV-MA"
+  },
+  "count": 184
+},
+{
+  "_id": {
+    "release_year": 2020,
+    "rating": "TV-14"
+  },
+  "count": 174
+},
+{
+  "_id": {
+    "release_year": 2021,
+    "rating": "TV-14"
+  },
+  "count": 151
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "TV-14"
+  },
+  "count": 144
+},
+{
+  "_id": {
+    "release_year": 2017,
+    "rating": "TV-PG"
+  },
+  "count": 111
+},
+{
+  "_id": {
+    "release_year": 2018,
+    "rating": "TV-PG"
+  },
+  "count": 105
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "TV-14"
+  },
+  "count": 99
+},
+{
+  "_id": {
     "release_year": 2019,
+    "rating": "TV-PG"
+  },
+  "count": 98
+},
+{
+  "_id": {
+    "release_year": 2016,
+    "rating": "TV-PG"
+  },
+  "count": 97
+},
+{
+  "_id": {
+    "release_year": 2016,
     "rating": "R"
   },
-  "count": 39
+  "count": 86
 },
 {
   "_id": {
-    "release_year": 2019,
-    "rating": "PG-13"
+    "release_year": 2020,
+    "rating": "TV-PG"
   },
-  "count": 19
+  "count": 80
 },
 {
   "_id": {
-    "release_year": 2019,
-    "rating": "PG"
+    "release_year": 2014,
+    "rating": "TV-MA"
   },
-  "count": 12
+  "count": 79
 },
 {
   "_id": {
-    "release_year": 2019,
-    "rating": "G"
+    "release_year": 2013,
+    "rating": "TV-14"
   },
-  "count": 1
+  "count": 75
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "TV-14"
+  },
+  "count": 73
+},
+{
+  "_id": {
+    "release_year": 2017,
+    "rating": "R"
+  },
+  "count": 73
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "R"
+  },
+  "count": 67
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "TV-MA"
+  },
+  "count": 64
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "TV-PG"
+  },
+  "count": 63
+},
+{
+  "_id": {
+    "release_year": 2020,
+    "rating": "TV-Y"
+  },
+  "count": 59
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "TV-14"
+  },
+  "count": 55
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "TV-MA"
+  },
+  "count": 54
 },
 {
   "_id": {
     "release_year": 2018,
-    "rating": "TV-Y7-FV"
+    "rating": "R"
   },
-  "count": 1
+  "count": 52
 },
 {
   "_id": {
-    "release_year": 2018,
+    "release_year": 2019,
+    "rating": "TV-Y"
+  },
+  "count": 50
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "TV-14"
+  },
+  "count": 50
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "R"
+  },
+  "count": 49
+},
+{
+  "_id": {
+    "release_year": 2020,
+    "rating": "R"
+  },
+  "count": 48
+},
+{
+  "_id": {
+    "release_year": 2009,
+    "rating": "TV-14"
+  },
+  "count": 48
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "TV-PG"
+  },
+  "count": 47
+},
+{
+  "_id": {
+    "release_year": 2021,
+    "rating": "TV-PG"
+  },
+  "count": 45
+},
+{
+  "_id": {
+    "release_year": 2020,
+    "rating": "TV-G"
+  },
+  "count": 45
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "TV-MA"
+  },
+  "count": 42
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "R"
+  },
+  "count": 41
+},
+{
+  "_id": {
+    "release_year": 2020,
     "rating": "TV-Y7"
   },
-  "count": 40
+  "count": 41
 },
 {
   "_id": {
@@ -225,72 +309,23 @@
 {
   "_id": {
     "release_year": 2018,
-    "rating": "TV-PG"
+    "rating": "TV-Y7"
   },
-  "count": 105
+  "count": 40
 },
 {
   "_id": {
-    "release_year": 2018,
-    "rating": "TV-MA"
-  },
-  "count": 549
-},
-{
-  "_id": {
-    "release_year": 2018,
-    "rating": "TV-G"
-  },
-  "count": 26
-},
-{
-  "_id": {
-    "release_year": 2018,
-    "rating": "TV-14"
-  },
-  "count": 268
-},
-{
-  "_id": {
-    "release_year": 2018,
+    "release_year": 2019,
     "rating": "R"
   },
-  "count": 52
+  "count": 39
 },
 {
   "_id": {
-    "release_year": 2018,
-    "rating": "PG-13"
+    "release_year": 2008,
+    "rating": "TV-14"
   },
-  "count": 30
-},
-{
-  "_id": {
-    "release_year": 2018,
-    "rating": "PG"
-  },
-  "count": 31
-},
-{
-  "_id": {
-    "release_year": 2018,
-    "rating": "NR"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2018,
-    "rating": "NC-17"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2018,
-    "rating": "G"
-  },
-  "count": 2
+  "count": 38
 },
 {
   "_id": {
@@ -301,45 +336,31 @@
 },
 {
   "_id": {
-    "release_year": 2017,
-    "rating": "TV-Y"
+    "release_year": 2019,
+    "rating": "TV-Y7"
   },
-  "count": 31
+  "count": 36
 },
 {
   "_id": {
-    "release_year": 2017,
-    "rating": "TV-PG"
+    "release_year": 2016,
+    "rating": "PG-13"
   },
-  "count": 111
+  "count": 34
 },
 {
   "_id": {
-    "release_year": 2017,
-    "rating": "TV-MA"
+    "release_year": 2021,
+    "rating": "TV-Y7"
   },
-  "count": 451
+  "count": 33
 },
 {
   "_id": {
-    "release_year": 2017,
-    "rating": "TV-G"
+    "release_year": 2016,
+    "rating": "TV-Y7"
   },
-  "count": 26
-},
-{
-  "_id": {
-    "release_year": 2017,
-    "rating": "TV-14"
-  },
-  "count": 251
-},
-{
-  "_id": {
-    "release_year": 2017,
-    "rating": "R"
-  },
-  "count": 73
+  "count": 33
 },
 {
   "_id": {
@@ -350,10 +371,1382 @@
 },
 {
   "_id": {
+    "release_year": 2016,
+    "rating": "TV-Y"
+  },
+  "count": 31
+},
+{
+  "_id": {
+    "release_year": 2017,
+    "rating": "TV-Y"
+  },
+  "count": 31
+},
+{
+  "_id": {
+    "release_year": 2018,
+    "rating": "PG"
+  },
+  "count": 31
+},
+{
+  "_id": {
+    "release_year": 2006,
+    "rating": "TV-14"
+  },
+  "count": 31
+},
+{
+  "_id": {
+    "release_year": 2018,
+    "rating": "PG-13"
+  },
+  "count": 30
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "TV-PG"
+  },
+  "count": 29
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "R"
+  },
+  "count": 29
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "TV-MA"
+  },
+  "count": 27
+},
+{
+  "_id": {
+    "release_year": 2021,
+    "rating": "TV-Y"
+  },
+  "count": 26
+},
+{
+  "_id": {
+    "release_year": 2005,
+    "rating": "TV-14"
+  },
+  "count": 26
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "PG-13"
+  },
+  "count": 26
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "R"
+  },
+  "count": 26
+},
+{
+  "_id": {
+    "release_year": 2018,
+    "rating": "TV-G"
+  },
+  "count": 26
+},
+{
+  "_id": {
+    "release_year": 2017,
+    "rating": "TV-G"
+  },
+  "count": 26
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "PG-13"
+  },
+  "count": 25
+},
+{
+  "_id": {
+    "release_year": 2009,
+    "rating": "R"
+  },
+  "count": 25
+},
+{
+  "_id": {
+    "release_year": 2008,
+    "rating": "TV-MA"
+  },
+  "count": 25
+},
+{
+  "_id": {
+    "release_year": 2009,
+    "rating": "PG-13"
+  },
+  "count": 25
+},
+{
+  "_id": {
+    "release_year": 2008,
+    "rating": "PG-13"
+  },
+  "count": 24
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "TV-PG"
+  },
+  "count": 23
+},
+{
+  "_id": {
+    "release_year": 2019,
+    "rating": "TV-G"
+  },
+  "count": 23
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "PG-13"
+  },
+  "count": 23
+},
+{
+  "_id": {
+    "release_year": 2016,
+    "rating": "TV-G"
+  },
+  "count": 22
+},
+{
+  "_id": {
+    "release_year": 2021,
+    "rating": "TV-G"
+  },
+  "count": 21
+},
+{
+  "_id": {
+    "release_year": 2020,
+    "rating": "PG-13"
+  },
+  "count": 21
+},
+{
+  "_id": {
+    "release_year": 2021,
+    "rating": "R"
+  },
+  "count": 21
+},
+{
+  "_id": {
+    "release_year": 2016,
+    "rating": "NR"
+  },
+  "count": 20
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "TV-Y7"
+  },
+  "count": 20
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "R"
+  },
+  "count": 20
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "TV-PG"
+  },
+  "count": 20
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "TV-Y"
+  },
+  "count": 20
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "PG-13"
+  },
+  "count": 19
+},
+{
+  "_id": {
+    "release_year": 2019,
+    "rating": "PG-13"
+  },
+  "count": 19
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "PG-13"
+  },
+  "count": 19
+},
+{
+  "_id": {
+    "release_year": 2008,
+    "rating": "R"
+  },
+  "count": 19
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "TV-PG"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "NR"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "release_year": 2007,
+    "rating": "TV-14"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "release_year": 2009,
+    "rating": "TV-MA"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "PG"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "release_year": 2006,
+    "rating": "TV-MA"
+  },
+  "count": 17
+},
+{
+  "_id": {
+    "release_year": 2007,
+    "rating": "TV-MA"
+  },
+  "count": 17
+},
+{
+  "_id": {
+    "release_year": 2005,
+    "rating": "PG-13"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "release_year": 2003,
+    "rating": "R"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "release_year": 2009,
+    "rating": "TV-PG"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "release_year": 1997,
+    "rating": "R"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "release_year": 2003,
+    "rating": "TV-14"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "PG"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "release_year": 2006,
+    "rating": "PG-13"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "release_year": 2020,
+    "rating": "PG"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "release_year": 2007,
+    "rating": "PG-13"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "TV-Y7"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "release_year": 2004,
+    "rating": "TV-14"
+  },
+  "count": 15
+},
+{
+  "_id": {
     "release_year": 2017,
     "rating": "PG"
   },
   "count": 15
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "PG-13"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "PG"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "release_year": 2007,
+    "rating": "R"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "release_year": 2001,
+    "rating": "R"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "release_year": 2021,
+    "rating": "PG-13"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "TV-Y7"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "release_year": 2016,
+    "rating": "PG"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "TV-Y"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "release_year": 2002,
+    "rating": "PG-13"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "TV-G"
+  },
+  "count": 13
+},
+{
+  "_id": {
+    "release_year": 2019,
+    "rating": "PG"
+  },
+  "count": 12
+},
+{
+  "_id": {
+    "release_year": 2006,
+    "rating": "R"
+  },
+  "count": 12
+},
+{
+  "_id": {
+    "release_year": 2002,
+    "rating": "R"
+  },
+  "count": 12
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "TV-Y7"
+  },
+  "count": 12
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "TV-Y7"
+  },
+  "count": 11
+},
+{
+  "_id": {
+    "release_year": 1992,
+    "rating": "R"
+  },
+  "count": 11
+},
+{
+  "_id": {
+    "release_year": 2002,
+    "rating": "TV-14"
+  },
+  "count": 11
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "PG"
+  },
+  "count": 11
+},
+{
+  "_id": {
+    "release_year": 2015,
+    "rating": "TV-G"
+  },
+  "count": 11
+},
+{
+  "_id": {
+    "release_year": 2021,
+    "rating": "PG"
+  },
+  "count": 11
+},
+{
+  "_id": {
+    "release_year": 2005,
+    "rating": "TV-PG"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 2009,
+    "rating": "PG"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 2003,
+    "rating": "PG-13"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 2008,
+    "rating": "PG"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 1999,
+    "rating": "R"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 2000,
+    "rating": "PG-13"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 2006,
+    "rating": "TV-PG"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 2007,
+    "rating": "PG"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 2004,
+    "rating": "TV-MA"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 1995,
+    "rating": "PG-13"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 2005,
+    "rating": "R"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 2004,
+    "rating": "TV-PG"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "release_year": 1990,
+    "rating": "TV-14"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "release_year": 1996,
+    "rating": "R"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "release_year": 1997,
+    "rating": "PG-13"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "release_year": 2001,
+    "rating": "TV-14"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "release_year": 2008,
+    "rating": "TV-PG"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "release_year": 1998,
+    "rating": "R"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "NR"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "release_year": 2005,
+    "rating": "TV-MA"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2000,
+    "rating": "R"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "TV-Y"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "PG"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2001,
+    "rating": "PG-13"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2006,
+    "rating": "PG"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 1998,
+    "rating": "TV-14"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "TV-Y"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2003,
+    "rating": "TV-MA"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "TV-Y7"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2004,
+    "rating": "PG"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 1982,
+    "rating": "TV-14"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 1999,
+    "rating": "PG-13"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "release_year": 2004,
+    "rating": "R"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "PG"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "TV-G"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "release_year": 1994,
+    "rating": "TV-14"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "release_year": 1998,
+    "rating": "PG-13"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "NR"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "release_year": 1998,
+    "rating": "TV-MA"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "release_year": 2004,
+    "rating": "PG-13"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "release_year": 2002,
+    "rating": "TV-MA"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "release_year": 1996,
+    "rating": "PG-13"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "release_year": 2007,
+    "rating": "TV-PG"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "release_year": 1993,
+    "rating": "R"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "release_year": 1999,
+    "rating": "TV-14"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "release_year": 1988,
+    "rating": "TV-PG"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "TV-Y"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "release_year": 1993,
+    "rating": "TV-14"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "release_year": 1983,
+    "rating": "TV-14"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "release_year": 1991,
+    "rating": "TV-MA"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 1985,
+    "rating": "TV-14"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "NR"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 2003,
+    "rating": "PG"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 1999,
+    "rating": "TV-MA"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 2001,
+    "rating": "PG"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 2005,
+    "rating": "PG"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 1986,
+    "rating": "TV-14"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 2009,
+    "rating": "TV-Y7"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 1984,
+    "rating": "TV-14"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 2000,
+    "rating": "TV-PG"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 2000,
+    "rating": "TV-14"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 1988,
+    "rating": "R"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "TV-Y"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 1980,
+    "rating": "R"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 1981,
+    "rating": "TV-14"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "NR"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1983,
+    "rating": "TV-MA"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1996,
+    "rating": "TV-14"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1995,
+    "rating": "TV-14"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1994,
+    "rating": "PG-13"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 2000,
+    "rating": "PG"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 2002,
+    "rating": "PG"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1990,
+    "rating": "PG-13"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1990,
+    "rating": "R"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1997,
+    "rating": "TV-14"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1994,
+    "rating": "R"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1976,
+    "rating": "PG"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1993,
+    "rating": "PG-13"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1980,
+    "rating": "TV-14"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 2008,
+    "rating": "TV-G"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1995,
+    "rating": "R"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 2008,
+    "rating": "TV-Y7"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1984,
+    "rating": "PG"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 2009,
+    "rating": "G"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1989,
+    "rating": "TV-14"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1993,
+    "rating": "PG"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1993,
+    "rating": "TV-MA"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "release_year": 1988,
+    "rating": "TV-14"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1985,
+    "rating": "TV-MA"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 2005,
+    "rating": "TV-Y7"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 2004,
+    "rating": "G"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1943,
+    "rating": "TV-PG"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1989,
+    "rating": "PG"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1979,
+    "rating": "TV-14"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1992,
+    "rating": "TV-MA"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1982,
+    "rating": "R"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 2007,
+    "rating": "TV-Y7"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1973,
+    "rating": "R"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1994,
+    "rating": "PG"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1992,
+    "rating": "PG"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 2010,
+    "rating": "TV-G"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1973,
+    "rating": "TV-14"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1988,
+    "rating": "PG-13"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 2016,
+    "rating": "G"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 2003,
+    "rating": "TV-PG"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 2012,
+    "rating": "TV-G"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1990,
+    "rating": "TV-MA"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1997,
+    "rating": "TV-MA"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "release_year": 1991,
+    "rating": "R"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1981,
+    "rating": "PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "TV-G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1944,
+    "rating": "TV-14"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2001,
+    "rating": "TV-Y7"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1960,
+    "rating": "TV-14"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1989,
+    "rating": "PG-13"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1996,
+    "rating": "TV-Y7"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1987,
+    "rating": "PG-13"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1974,
+    "rating": "TV-14"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2016,
+    "rating": "TV-Y7-FV"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1971,
+    "rating": "G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2003,
+    "rating": "TV-Y7"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1986,
+    "rating": "R"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1982,
+    "rating": "PG"
+  },
+  "count": 2
 },
 {
   "_id": {
@@ -364,21 +1757,643 @@
 },
 {
   "_id": {
-    "release_year": 2017,
+    "release_year": 2007,
+    "rating": "NR"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2001,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1986,
+    "rating": "PG-13"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1991,
+    "rating": "PG-13"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2001,
+    "rating": "TV-MA"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1982,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2014,
     "rating": "G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1993,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2015
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2002,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2005,
+    "rating": "G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1979,
+    "rating": "TV-MA"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1986,
+    "rating": "PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2001,
+    "rating": "G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1998,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1960,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1977,
+    "rating": "PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1978,
+    "rating": "PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1942,
+    "rating": "TV-14"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1972,
+    "rating": "TV-MA"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2006,
+    "rating": "TV-Y7"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1981,
+    "rating": "R"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1995,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1962,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1945,
+    "rating": "TV-14"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1971,
+    "rating": "TV-14"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1992,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1977,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1991,
+    "rating": "NR"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1945,
+    "rating": "TV-MA"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "NR"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2007,
+    "rating": "TV-Y"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1994,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1992,
+    "rating": "TV-14"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1976,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1975,
+    "rating": "TV-14"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1999,
+    "rating": "PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1975,
+    "rating": "PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1975,
+    "rating": "TV-MA"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1989,
+    "rating": "TV-MA"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1979,
+    "rating": "R"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1996,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2008,
+    "rating": "TV-Y"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1999,
+    "rating": "TV-Y7"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1989,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1978,
+    "rating": "TV-MA"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1999,
+    "rating": "G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2000,
+    "rating": "G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1999,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1967,
+    "rating": "R"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1979,
+    "rating": "TV-PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2018,
+    "rating": "G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1982,
+    "rating": "TV-MA"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1999,
+    "rating": "TV-G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1997,
+    "rating": "TV-G"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1995,
+    "rating": "PG"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1974,
+    "rating": "R"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2004,
+    "rating": "NR"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1991,
+    "rating": "TV-14"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1987,
+    "rating": "R"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 2000,
+    "rating": "TV-Y7"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "release_year": 1981,
+    "rating": "TV-PG"
   },
   "count": 1
 },
 {
   "_id": {
-    "release_year": 2017,
-    "rating": "74 min"
+    "release_year": 1968,
+    "rating": "PG-13"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1998,
+    "rating": "TV-Y7"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1968,
+    "rating": "R"
   },
   "count": 1
 },
 {
   "_id": {
     "release_year": 2017
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1995,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1965,
+    "rating": "PG-13"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1973,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1967,
+    "rating": "TV-G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1984,
+    "rating": "R"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1993,
+    "rating": "TV-G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2013,
+    "rating": "TV-Y7-FV"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1985,
+    "rating": "NR"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1958,
+    "rating": "NR"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1989,
+    "rating": "R"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1998,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1973,
+    "rating": "PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1996,
+    "rating": "PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1992,
+    "rating": "TV-Y"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1985,
+    "rating": "PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1974,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1986,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1977,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1959,
+    "rating": "TV-14"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1976,
+    "rating": "R"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1997,
+    "rating": "TV-Y7"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2019,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1987,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1992,
+    "rating": "PG-13"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1925,
+    "rating": "TV-14"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2006,
+    "rating": "NR"
   },
   "count": 1
 },
@@ -391,170 +2406,164 @@
 },
 {
   "_id": {
-    "release_year": 2016,
-    "rating": "TV-Y7-FV"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2016,
-    "rating": "TV-Y7"
-  },
-  "count": 33
-},
-{
-  "_id": {
-    "release_year": 2016,
-    "rating": "TV-Y"
-  },
-  "count": 31
-},
-{
-  "_id": {
-    "release_year": 2016,
-    "rating": "TV-PG"
-  },
-  "count": 97
-},
-{
-  "_id": {
-    "release_year": 2016,
+    "release_year": 1994,
     "rating": "TV-MA"
   },
-  "count": 341
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2016,
-    "rating": "TV-G"
+    "release_year": 1986,
+    "rating": "TV-MA"
   },
-  "count": 22
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2016,
-    "rating": "TV-14"
-  },
-  "count": 218
-},
-{
-  "_id": {
-    "release_year": 2016,
+    "release_year": 1972,
     "rating": "R"
   },
-  "count": 86
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2016,
-    "rating": "PG-13"
+    "release_year": 1955,
+    "rating": "TV-14"
   },
-  "count": 34
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2016,
-    "rating": "PG"
+    "release_year": 1961,
+    "rating": "TV-14"
   },
-  "count": 14
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2016,
-    "rating": "NR"
+    "release_year": 1958,
+    "rating": "TV-14"
   },
-  "count": 20
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2016,
+    "release_year": 2017,
     "rating": "G"
   },
-  "count": 3
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2015,
+    "release_year": 1981,
     "rating": "TV-Y7"
-  },
-  "count": 14
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "TV-Y"
-  },
-  "count": 20
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "TV-PG"
-  },
-  "count": 63
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "TV-MA"
-  },
-  "count": 184
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "TV-G"
-  },
-  "count": 11
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "TV-14"
-  },
-  "count": 144
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "R"
-  },
-  "count": 67
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "PG-13"
-  },
-  "count": 25
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "PG"
-  },
-  "count": 11
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "NR"
-  },
-  "count": 18
-},
-{
-  "_id": {
-    "release_year": 2015,
-    "rating": "66 min"
   },
   "count": 1
 },
 {
   "_id": {
-    "release_year": 2015
+    "release_year": 1956,
+    "rating": "TV-14"
   },
-  "count": 2
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1954,
+    "rating": "TV-G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1987,
+    "rating": "TV-14"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2001,
+    "rating": "TV-G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1969,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1977,
+    "rating": "TV-14"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1994,
+    "rating": "TV-G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1962,
+    "rating": "R"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1978,
+    "rating": "R"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1976,
+    "rating": "TV-14"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2003,
+    "rating": "TV-Y"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1964,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1989,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1997,
+    "rating": "PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1954,
+    "rating": "TV-14"
+  },
+  "count": 1
 },
 {
   "_id": {
@@ -565,169 +2574,190 @@
 },
 {
   "_id": {
-    "release_year": 2014,
-    "rating": "TV-Y7"
-  },
-  "count": 12
-},
-{
-  "_id": {
-    "release_year": 2014,
-    "rating": "TV-Y"
-  },
-  "count": 14
-},
-{
-  "_id": {
-    "release_year": 2014,
-    "rating": "TV-PG"
-  },
-  "count": 47
-},
-{
-  "_id": {
-    "release_year": 2014,
-    "rating": "TV-MA"
-  },
-  "count": 79
-},
-{
-  "_id": {
-    "release_year": 2014,
-    "rating": "TV-G"
-  },
-  "count": 7
-},
-{
-  "_id": {
-    "release_year": 2014,
-    "rating": "TV-14"
-  },
-  "count": 99
-},
-{
-  "_id": {
-    "release_year": 2014,
-    "rating": "R"
-  },
-  "count": 49
-},
-{
-  "_id": {
-    "release_year": 2014,
-    "rating": "PG-13"
-  },
-  "count": 19
-},
-{
-  "_id": {
-    "release_year": 2014,
-    "rating": "PG"
-  },
-  "count": 15
-},
-{
-  "_id": {
-    "release_year": 2014,
-    "rating": "NR"
-  },
-  "count": 7
-},
-{
-  "_id": {
-    "release_year": 2014,
+    "release_year": 2013,
     "rating": "NC-17"
   },
   "count": 1
 },
 {
   "_id": {
-    "release_year": 2014,
-    "rating": "G"
+    "release_year": 1984,
+    "rating": "PG-13"
   },
-  "count": 2
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2013,
+    "release_year": 1944,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2000,
+    "rating": "TV-MA"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1947,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2018,
+    "rating": "NC-17"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1991,
+    "rating": "TV-G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1955,
+    "rating": "PG-13"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1989,
+    "rating": "TV-Y7"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2008,
+    "rating": "UR"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1956,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1978,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1973,
+    "rating": "NR"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2011,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1972,
+    "rating": "TV-14"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1946,
+    "rating": "TV-14"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1966,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1987,
+    "rating": "TV-MA"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2018,
     "rating": "TV-Y7-FV"
   },
   "count": 1
 },
 {
   "_id": {
-    "release_year": 2013,
-    "rating": "TV-Y7"
-  },
-  "count": 20
-},
-{
-  "_id": {
-    "release_year": 2013,
-    "rating": "TV-Y"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 2013,
-    "rating": "TV-PG"
-  },
-  "count": 29
-},
-{
-  "_id": {
-    "release_year": 2013,
-    "rating": "TV-MA"
-  },
-  "count": 64
-},
-{
-  "_id": {
-    "release_year": 2013,
-    "rating": "TV-G"
-  },
-  "count": 13
-},
-{
-  "_id": {
-    "release_year": 2013,
+    "release_year": 1965,
     "rating": "TV-14"
   },
-  "count": 75
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2013,
-    "rating": "R"
+    "release_year": 1963,
+    "rating": "TV-14"
   },
-  "count": 41
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2013,
-    "rating": "PG-13"
+    "release_year": 1974,
+    "rating": "UR"
   },
-  "count": 15
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2013,
-    "rating": "PG"
+    "release_year": 1995,
+    "rating": "TV-MA"
   },
-  "count": 14
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2013,
+    "release_year": 1977,
+    "rating": "TV-MA"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1968,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1987,
     "rating": "NR"
   },
-  "count": 9
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2013,
-    "rating": "NC-17"
+    "release_year": 1997,
+    "rating": "TV-PG"
   },
   "count": 1
 },
@@ -746,220 +2776,262 @@
 },
 {
   "_id": {
-    "release_year": 2012,
-    "rating": "TV-Y7"
-  },
-  "count": 15
-},
-{
-  "_id": {
-    "release_year": 2012,
-    "rating": "TV-Y"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 2012,
-    "rating": "TV-PG"
-  },
-  "count": 23
-},
-{
-  "_id": {
-    "release_year": 2012,
+    "release_year": 1981,
     "rating": "TV-MA"
   },
-  "count": 54
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2012,
-    "rating": "TV-G"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 2012,
-    "rating": "TV-14"
-  },
-  "count": 73
-},
-{
-  "_id": {
-    "release_year": 2012,
-    "rating": "R"
-  },
-  "count": 29
-},
-{
-  "_id": {
-    "release_year": 2012,
-    "rating": "PG-13"
-  },
-  "count": 19
-},
-{
-  "_id": {
-    "release_year": 2012,
-    "rating": "PG"
-  },
-  "count": 7
-},
-{
-  "_id": {
-    "release_year": 2012,
-    "rating": "NR"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 2011,
+    "release_year": 2004,
     "rating": "TV-Y7"
   },
-  "count": 11
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2011,
-    "rating": "TV-Y"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 2011,
-    "rating": "TV-PG"
-  },
-  "count": 18
-},
-{
-  "_id": {
-    "release_year": 2011,
-    "rating": "TV-MA"
-  },
-  "count": 27
-},
-{
-  "_id": {
-    "release_year": 2011,
-    "rating": "TV-G"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2011,
-    "rating": "TV-14"
-  },
-  "count": 55
-},
-{
-  "_id": {
-    "release_year": 2011,
-    "rating": "R"
-  },
-  "count": 20
-},
-{
-  "_id": {
-    "release_year": 2011,
-    "rating": "PG-13"
-  },
-  "count": 23
-},
-{
-  "_id": {
-    "release_year": 2011,
-    "rating": "PG"
-  },
-  "count": 18
-},
-{
-  "_id": {
-    "release_year": 2011,
+    "release_year": 2018,
     "rating": "NR"
   },
-  "count": 2
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2011,
+    "release_year": 2007,
     "rating": "G"
   },
   "count": 1
 },
 {
   "_id": {
-    "release_year": 2010,
-    "rating": "TV-Y7"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 2010,
+    "release_year": 2004,
     "rating": "TV-Y"
   },
-  "count": 6
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2010,
+    "release_year": 1990,
     "rating": "TV-PG"
   },
-  "count": 20
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2010,
-    "rating": "TV-MA"
+    "release_year": 1980,
+    "rating": "TV-PG"
   },
-  "count": 42
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2010,
+    "release_year": 2015,
+    "rating": "66 min"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1995,
     "rating": "TV-G"
   },
-  "count": 3
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2010,
+    "release_year": 1978,
+    "rating": "TV-G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1964,
     "rating": "TV-14"
   },
-  "count": 50
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2010,
-    "rating": "R"
+    "release_year": 1976,
+    "rating": "TV-MA"
   },
-  "count": 26
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2010,
-    "rating": "PG-13"
+    "release_year": 1946,
+    "rating": "TV-PG"
   },
-  "count": 26
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2010,
+    "release_year": 2017,
+    "rating": "74 min"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2020,
+    "rating": "G"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1972,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1974,
     "rating": "PG"
   },
-  "count": 8
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 2010,
-    "rating": "NR"
+    "release_year": 1991,
+    "rating": "G"
   },
-  "count": 4
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1991,
+    "rating": "PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1997,
+    "rating": "TV-Y"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1988,
+    "rating": "TV-MA"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1971,
+    "rating": "R"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1970,
+    "rating": "TV-MA"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1993,
+    "rating": "TV-Y7"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1979,
+    "rating": "PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2014,
+    "rating": "NC-17"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 2002,
+    "rating": "TV-Y7"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1975,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1967,
+    "rating": "TV-14"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1979,
+    "rating": "PG-13"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1969,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1970,
+    "rating": "TV-PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1983,
+    "rating": "PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1963,
+    "rating": "TV-MA"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1967,
+    "rating": "TV-MA"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1990,
+    "rating": "PG"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1955,
+    "rating": "TV-PG"
+  },
+  "count": 1
 },
 {
   "_id": {
@@ -970,2002 +3042,7 @@
 },
 {
   "_id": {
-    "release_year": 2009,
-    "rating": "TV-Y7"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 2009,
-    "rating": "TV-PG"
-  },
-  "count": 16
-},
-{
-  "_id": {
-    "release_year": 2009,
-    "rating": "TV-MA"
-  },
-  "count": 18
-},
-{
-  "_id": {
-    "release_year": 2009,
-    "rating": "TV-G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2009,
-    "rating": "TV-14"
-  },
-  "count": 48
-},
-{
-  "_id": {
-    "release_year": 2009,
-    "rating": "R"
-  },
-  "count": 25
-},
-{
-  "_id": {
-    "release_year": 2009,
-    "rating": "PG-13"
-  },
-  "count": 25
-},
-{
-  "_id": {
-    "release_year": 2009,
-    "rating": "PG"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2009,
-    "rating": "G"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "UR"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "TV-Y7"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "TV-Y"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "TV-PG"
-  },
-  "count": 9
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "TV-MA"
-  },
-  "count": 25
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "TV-G"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "TV-14"
-  },
-  "count": 38
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "R"
-  },
-  "count": 19
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "PG-13"
-  },
-  "count": 24
-},
-{
-  "_id": {
-    "release_year": 2008,
-    "rating": "PG"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "TV-Y7"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "TV-Y"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "TV-PG"
-  },
-  "count": 6
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "TV-MA"
-  },
-  "count": 17
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "TV-14"
-  },
-  "count": 18
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "R"
-  },
-  "count": 14
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "PG-13"
-  },
-  "count": 15
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "PG"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "NR"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2007,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2006,
-    "rating": "TV-Y7"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2006,
-    "rating": "TV-PG"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2006,
-    "rating": "TV-MA"
-  },
-  "count": 17
-},
-{
-  "_id": {
-    "release_year": 2006,
-    "rating": "TV-14"
-  },
-  "count": 31
-},
-{
-  "_id": {
-    "release_year": 2006,
-    "rating": "R"
-  },
-  "count": 12
-},
-{
-  "_id": {
-    "release_year": 2006,
-    "rating": "PG-13"
-  },
-  "count": 15
-},
-{
-  "_id": {
-    "release_year": 2006,
-    "rating": "PG"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 2006,
-    "rating": "NR"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2005,
-    "rating": "TV-Y7"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 2005,
-    "rating": "TV-PG"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2005,
-    "rating": "TV-MA"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 2005,
-    "rating": "TV-14"
-  },
-  "count": 26
-},
-{
-  "_id": {
-    "release_year": 2005,
-    "rating": "R"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2005,
-    "rating": "PG-13"
-  },
-  "count": 16
-},
-{
-  "_id": {
-    "release_year": 2005,
-    "rating": "PG"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 2005,
-    "rating": "G"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "TV-Y7"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "TV-Y"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "TV-PG"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "TV-MA"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "TV-14"
-  },
-  "count": 15
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "R"
-  },
-  "count": 7
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "PG-13"
-  },
-  "count": 7
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "PG"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "NR"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2004,
-    "rating": "G"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 2003,
-    "rating": "TV-Y7"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2003,
-    "rating": "TV-Y"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2003,
-    "rating": "TV-PG"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 2003,
-    "rating": "TV-MA"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 2003,
-    "rating": "TV-14"
-  },
-  "count": 16
-},
-{
-  "_id": {
-    "release_year": 2003,
-    "rating": "R"
-  },
-  "count": 16
-},
-{
-  "_id": {
-    "release_year": 2003,
-    "rating": "PG-13"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2003,
-    "rating": "PG"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 2002,
-    "rating": "TV-Y7"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2002,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2002,
-    "rating": "TV-MA"
-  },
-  "count": 7
-},
-{
-  "_id": {
-    "release_year": 2002,
-    "rating": "TV-14"
-  },
-  "count": 11
-},
-{
-  "_id": {
-    "release_year": 2002,
-    "rating": "R"
-  },
-  "count": 12
-},
-{
-  "_id": {
-    "release_year": 2002,
-    "rating": "PG-13"
-  },
-  "count": 14
-},
-{
-  "_id": {
-    "release_year": 2002,
-    "rating": "PG"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 2001,
-    "rating": "TV-Y7"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2001,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2001,
-    "rating": "TV-MA"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2001,
-    "rating": "TV-G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2001,
-    "rating": "TV-14"
-  },
-  "count": 9
-},
-{
-  "_id": {
-    "release_year": 2001,
-    "rating": "R"
-  },
-  "count": 14
-},
-{
-  "_id": {
-    "release_year": 2001,
-    "rating": "PG-13"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 2001,
-    "rating": "PG"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 2001,
-    "rating": "G"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2000,
-    "rating": "TV-Y7"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 2000,
-    "rating": "TV-PG"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 2000,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 2000,
-    "rating": "TV-14"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 2000,
-    "rating": "R"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 2000,
-    "rating": "PG-13"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 2000,
-    "rating": "PG"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 2000,
-    "rating": "G"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1999,
-    "rating": "TV-Y7"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1999,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1999,
-    "rating": "TV-MA"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 1999,
-    "rating": "TV-G"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1999,
-    "rating": "TV-14"
-  },
-  "count": 6
-},
-{
-  "_id": {
-    "release_year": 1999,
-    "rating": "R"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 1999,
-    "rating": "PG-13"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 1999,
-    "rating": "PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1999,
-    "rating": "G"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1998,
-    "rating": "TV-Y7"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1998,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1998,
-    "rating": "TV-MA"
-  },
-  "count": 7
-},
-{
-  "_id": {
-    "release_year": 1998,
-    "rating": "TV-G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1998,
-    "rating": "TV-14"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 1998,
-    "rating": "R"
-  },
-  "count": 9
-},
-{
-  "_id": {
-    "release_year": 1998,
-    "rating": "PG-13"
-  },
-  "count": 7
-},
-{
-  "_id": {
-    "release_year": 1998,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1997,
-    "rating": "TV-Y7"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1997,
-    "rating": "TV-Y"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1997,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1997,
-    "rating": "TV-MA"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1997,
-    "rating": "TV-G"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1997,
-    "rating": "TV-14"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1997,
-    "rating": "R"
-  },
-  "count": 16
-},
-{
-  "_id": {
-    "release_year": 1997,
-    "rating": "PG-13"
-  },
-  "count": 9
-},
-{
-  "_id": {
-    "release_year": 1997,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1996,
-    "rating": "TV-Y7"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1996,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1996,
-    "rating": "TV-14"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1996,
-    "rating": "R"
-  },
-  "count": 9
-},
-{
-  "_id": {
-    "release_year": 1996,
-    "rating": "PG-13"
-  },
-  "count": 6
-},
-{
-  "_id": {
-    "release_year": 1996,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1995,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1995,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1995,
-    "rating": "TV-G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1995,
-    "rating": "TV-14"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1995,
-    "rating": "R"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1995,
-    "rating": "PG-13"
-  },
-  "count": 10
-},
-{
-  "_id": {
-    "release_year": 1995,
-    "rating": "PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1995,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1994,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1994,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1994,
-    "rating": "TV-G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1994,
-    "rating": "TV-14"
-  },
-  "count": 7
-},
-{
-  "_id": {
-    "release_year": 1994,
-    "rating": "R"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1994,
-    "rating": "PG-13"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1994,
-    "rating": "PG"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1993,
-    "rating": "TV-Y7"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1993,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1993,
-    "rating": "TV-MA"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1993,
-    "rating": "TV-G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1993,
-    "rating": "TV-14"
-  },
-  "count": 6
-},
-{
-  "_id": {
-    "release_year": 1993,
-    "rating": "R"
-  },
-  "count": 6
-},
-{
-  "_id": {
-    "release_year": 1993,
-    "rating": "PG-13"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1993,
-    "rating": "PG"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1992,
-    "rating": "TV-Y"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1992,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1992,
-    "rating": "TV-MA"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1992,
-    "rating": "TV-14"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1992,
-    "rating": "R"
-  },
-  "count": 11
-},
-{
-  "_id": {
-    "release_year": 1992,
-    "rating": "PG-13"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1992,
-    "rating": "PG"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1991,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1991,
-    "rating": "TV-MA"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 1991,
-    "rating": "TV-G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1991,
-    "rating": "TV-14"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1991,
-    "rating": "R"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1991,
-    "rating": "PG-13"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1991,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1991,
-    "rating": "NR"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1991,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1990,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1990,
-    "rating": "TV-MA"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1990,
-    "rating": "TV-14"
-  },
-  "count": 9
-},
-{
-  "_id": {
-    "release_year": 1990,
-    "rating": "R"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1990,
-    "rating": "PG-13"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1990,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1989,
-    "rating": "TV-Y7"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1989,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1989,
-    "rating": "TV-MA"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1989,
-    "rating": "TV-14"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1989,
-    "rating": "R"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1989,
-    "rating": "PG-13"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1989,
-    "rating": "PG"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1989,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1988,
-    "rating": "TV-PG"
-  },
-  "count": 6
-},
-{
-  "_id": {
-    "release_year": 1988,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1988,
-    "rating": "TV-14"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1988,
-    "rating": "R"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 1988,
-    "rating": "PG-13"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1987,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1987,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1987,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1987,
-    "rating": "R"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1987,
-    "rating": "PG-13"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1987,
-    "rating": "NR"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1986,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1986,
-    "rating": "TV-14"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 1986,
-    "rating": "R"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1986,
-    "rating": "PG-13"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1986,
-    "rating": "PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1986,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1985,
-    "rating": "TV-MA"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1985,
-    "rating": "TV-14"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 1985,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1985,
-    "rating": "NR"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1984,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1984,
-    "rating": "TV-14"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 1984,
-    "rating": "R"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1984,
-    "rating": "PG-13"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1984,
-    "rating": "PG"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1983,
-    "rating": "TV-MA"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1983,
-    "rating": "TV-14"
-  },
-  "count": 6
-},
-{
-  "_id": {
-    "release_year": 1983,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1982,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1982,
-    "rating": "TV-MA"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1982,
-    "rating": "TV-14"
-  },
-  "count": 8
-},
-{
-  "_id": {
-    "release_year": 1982,
-    "rating": "R"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1982,
-    "rating": "PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
     "release_year": 1981,
-    "rating": "TV-Y7"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1981,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1981,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1981,
-    "rating": "TV-14"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 1981,
-    "rating": "R"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1981,
-    "rating": "PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1981,
-    "rating": "NR"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1980,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1980,
-    "rating": "TV-14"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1980,
-    "rating": "R"
-  },
-  "count": 5
-},
-{
-  "_id": {
-    "release_year": 1980,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1979,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1979,
-    "rating": "TV-MA"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1979,
-    "rating": "TV-14"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1979,
-    "rating": "R"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1979,
-    "rating": "PG-13"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1979,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1978,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1978,
-    "rating": "TV-MA"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1978,
-    "rating": "TV-G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1978,
-    "rating": "R"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1978,
-    "rating": "PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1977,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1977,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1977,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1977,
-    "rating": "PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1977,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1976,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1976,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1976,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1976,
-    "rating": "R"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1976,
-    "rating": "PG"
-  },
-  "count": 4
-},
-{
-  "_id": {
-    "release_year": 1975,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1975,
-    "rating": "TV-MA"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1975,
-    "rating": "TV-14"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1975,
-    "rating": "PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1974,
-    "rating": "UR"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1974,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1974,
-    "rating": "TV-14"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1974,
-    "rating": "R"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1974,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1973,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1973,
-    "rating": "TV-14"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1973,
-    "rating": "R"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1973,
-    "rating": "PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1973,
-    "rating": "NR"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1973,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1972,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1972,
-    "rating": "TV-MA"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1972,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1972,
-    "rating": "R"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1971,
-    "rating": "TV-14"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1971,
-    "rating": "R"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1971,
-    "rating": "G"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1970,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1970,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1969,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1969,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1968,
-    "rating": "R"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1968,
-    "rating": "PG-13"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1968,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1967,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1967,
-    "rating": "TV-G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1967,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1967,
-    "rating": "R"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1966,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1965,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1965,
-    "rating": "PG-13"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1964,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1964,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1963,
-    "rating": "TV-MA"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1963,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1962,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1962,
-    "rating": "R"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1961,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1960,
-    "rating": "TV-PG"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1960,
-    "rating": "TV-14"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1959,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1958,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1958,
     "rating": "NR"
   },
   "count": 1
@@ -2979,120 +3056,43 @@
 },
 {
   "_id": {
-    "release_year": 1956,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1956,
-    "rating": "G"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1955,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1955,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1955,
-    "rating": "PG-13"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1954,
+    "release_year": 2009,
     "rating": "TV-G"
   },
   "count": 1
 },
 {
   "_id": {
-    "release_year": 1954,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1947,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1946,
-    "rating": "TV-PG"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1946,
-    "rating": "TV-14"
-  },
-  "count": 1
-},
-{
-  "_id": {
-    "release_year": 1945,
+    "release_year": 1984,
     "rating": "TV-MA"
   },
-  "count": 2
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 1945,
-    "rating": "TV-14"
+    "release_year": 1998,
+    "rating": "TV-G"
   },
-  "count": 2
+  "count": 1
 },
 {
   "_id": {
-    "release_year": 1944,
+    "release_year": 1973,
+    "rating": "TV-MA"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "release_year": 1991,
     "rating": "TV-PG"
   },
   "count": 1
 },
 {
   "_id": {
-    "release_year": 1944,
-    "rating": "TV-14"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1943,
-    "rating": "TV-PG"
-  },
-  "count": 3
-},
-{
-  "_id": {
-    "release_year": 1942,
-    "rating": "TV-14"
-  },
-  "count": 2
-},
-{
-  "_id": {
-    "release_year": 1925,
-    "rating": "TV-14"
+    "release_year": 1980,
+    "rating": "PG"
   },
   "count": 1
 }]

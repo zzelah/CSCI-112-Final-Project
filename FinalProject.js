@@ -212,41 +212,7 @@ db.getCollection('project').aggregate([
 //     }
 // ]);
 
-// // #director count
-// db.getCollection('project').aggregate([
-//     // Stage 1: Group by director and count the number of shows
-//     {
-//         $group: {
-//             _id: "$director", // Group by the director field
-//             count: { $sum: 1 } // Count the number of shows
-//         }
-//     },
-//     // Stage 2: Sort by count in descending order
-//     {
-//         $sort: { count: -1 }
-//     }
-// ]);
 
-// #Film Count by Year and Rating
-// db.getCollection('project').aggregate([
-//     // Stage 1: Group by release_year and rating, and count films
-//     {
-//         $group: {
-//             _id: {
-//                 release_year: "$release_year", 
-//                 rating: "$rating"
-//             },
-//             count: { $sum: 1 } // Count the number of films
-//         }
-//     },
-//     // Stage 2: Sort by release_year (descending) and rating (descending)
-//     {
-//         $sort: {
-//             "_id.release_year": -1, 
-//             "_id.rating": -1
-//         }
-//     }
-// ]);
 
 // // #Most Popular Ratings by Year
 // db.getCollection('project').aggregate([
